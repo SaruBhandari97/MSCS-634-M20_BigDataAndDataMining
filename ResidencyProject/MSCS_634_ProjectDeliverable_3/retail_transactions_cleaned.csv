@@ -1,0 +1,1001 @@
+TransactionID,CustomerID,TransactionDate,CustomerAge,Gender,State,City,ProductCategory,ProductName,Quantity,UnitPrice,TotalAmount,PaymentMethod
+T100126,C1157,2025-01-16,49.0,Male,CA,Sacramento,Clothing,Running Shoes,3.0,85.35,256.05,Credit Card
+T100956,C1277,2025-03-14,62.0,Male,OH,Cleveland,Beauty,Perfume,1.0,64.06,64.06,Credit Card
+T100798,C1001,2025-04-29,62.0,Female,NY,New York City,Books,Self-Help Guide,5.0,14.29,71.45,Debit Card
+T100438,C1116,2025-10-22,20.0,Female,GA,Augusta,Clothing,Denim Jeans,4.0,43.67,174.68,Credit Card
+T100259,C1030,2025-08-25,43.0,Male,WA,Tacoma,Home & Kitchen,Blender,3.0,153.32,459.96,PayPal
+T100384,C1330,2025-04-07,49.0,Male,NY,Buffalo,Electronics,Wireless Earbuds,4.0,69.34,277.36,Gift Card
+T100405,C1250,2025-03-28,28.0,Male,FL,Miami,Books,Cookbook,6.0,11.7,70.2,Debit Card
+T100215,C1212,2025-02-13,62.0,Male,PA,Erie,Beauty,Shampoo Set,1.0,17.91,17.91,Credit Card
+T100411,C1021,2025-02-10,39.0,Female,NC,Charlotte,Sports & Outdoors,Dumbbell Set,3.0,34.34,103.02,PayPal
+T100050,C1325,2025-01-10,31.0,Male,PA,Erie,Beauty,Shampoo Set,2.0,15.3,30.6,Debit Card
+T100968,C1244,2025-09-07,53.0,Female,TX,Houston,Home & Kitchen,Cookware Set,7.0,51.22,358.54,PayPal
+T100416,C1057,2025-06-27,26.0,Male,CA,San Francisco,Books,Mystery Novel,4.0,8.63,34.52,Credit Card
+T100610,C1180,2025-02-06,71.0,Female,NC,Charlotte,Beauty,Shampoo Set,3.0,204.54500000000002,613.64,Cash
+T100883,C1291,2025-09-26,33.0,Female,FL,Tampa,Books,Cookbook,4.0,11.97,47.88,Gift Card
+T100588,C1184,2025-04-19,46.0,Female,OH,Cleveland,Beauty,Face Moisturizer,2.0,49.75,99.5,Gift Card
+T100420,C1096,2025-10-05,31.0,Female,PA,Erie,Home & Kitchen,Cookware Set,3.0,113.85,341.55,Credit Card
+T100124,C1119,2025-05-28,24.0,Female,WA,Seattle,Beauty,Makeup Kit,7.0,25.93,181.51,Cash
+T100516,C1252,2025-03-17,28.0,Female,PA,Pittsburgh,Sports & Outdoors,Water Bottle,3.0,79.21,237.63,Credit Card
+T100003,C1265,2025-06-21,51.0,Female,NY,Albany,Electronics,Phone Charger,1.0,204.54500000000002,204.54,Debit Card
+T100129,C1061,2025-03-19,60.0,Female,PA,Philadelphia,Beauty,Face Moisturizer,2.0,22.74,45.48,Credit Card
+T100560,C1012,2025-04-27,59.0,Female,GA,Augusta,Home & Kitchen,Cookware Set,3.0,42.81,128.43,Cash
+T100373,C1088,2025-10-18,46.0,Female,PA,Pittsburgh,Electronics,Wireless Earbuds,5.0,110.72,553.6,Credit Card
+T100509,C1150,2025-09-13,46.0,Male,OH,Cincinnati,Toys,Building Blocks,9.5,46.57,442.42,Debit Card
+T100269,C1336,2025-03-27,72.0,Female,FL,Miami,Sports & Outdoors,Camping Tent,4.0,119.64,478.56,Credit Card
+T100786,C1155,2025-08-06,55.0,Male,FL,Miami,Home & Kitchen,Blender,3.0,112.05,336.15,Debit Card
+T100466,C1194,2025-08-29,72.0,Male,NY,New York City,Electronics,USB Drive,2.0,120.86,241.72,Credit Card
+T100566,C1227,2025-10-07,51.0,Female,IL,Springfield,Beauty,Face Moisturizer,2.0,59.76,119.52,Credit Card
+T100020,C1035,2025-05-01,21.0,Female,PA,Pittsburgh,Toys,Action Figure,4.0,11.38,45.52,Credit Card
+T100272,C1287,2025-09-24,50.0,Female,TX,Austin,Home & Kitchen,Coffee Maker,3.0,132.6,397.8,Credit Card
+T100569,C1319,2025-07-12,61.0,Male,IL,Chicago,Home & Kitchen,Air Fryer,3.0,71.57,214.71,Credit Card
+T100113,C1233,2025-04-08,61.0,Female,GA,Atlanta,Sports & Outdoors,Camping Tent,1.0,25.91,25.91,Gift Card
+T100022,C1130,2025-06-22,50.0,Male,FL,Miami,Home & Kitchen,Vacuum Cleaner,2.0,77.9,155.8,Credit Card
+T100576,C1122,2025-07-17,55.0,Male,PA,Pittsburgh,Electronics,Wireless Earbuds,6.0,58.04,348.24,Credit Card
+T100191,C1210,2025-01-27,32.0,Male,NC,Raleigh,Toys,Board Game,6.0,53.8,322.8,PayPal
+T100425,C1296,2025-10-05,66.0,Male,GA,Atlanta,Books,Self-Help Guide,3.0,21.75,65.25,PayPal
+T100812,C1031,2025-06-17,30.0,Male,FL,Tampa,Electronics,Smartwatch,4.0,136.59,546.36,Credit Card
+T100900,C1248,2025-06-26,62.0,Female,PA,Pittsburgh,Books,Self-Help Guide,4.0,20.37,81.48,PayPal
+T100224,C1161,2025-07-06,46.0,Female,PA,Philadelphia,Electronics,Bluetooth Speaker,4.0,62.19,248.76,Debit Card
+T100953,C1042,2025-06-30,57.0,Female,CA,San Francisco,Home & Kitchen,Vacuum Cleaner,3.0,57.61,172.83,Credit Card
+T100170,C1133,2025-08-30,49.0,Female,PA,Philadelphia,Beauty,Makeup Kit,1.0,59.02,59.02,PayPal
+T100980,C1208,2025-06-19,33.0,Female,CA,Sacramento,Toys,Building Blocks,6.0,16.21,97.26,Debit Card
+T100152,C1016,2025-06-25,46.0,Female,PA,Pittsburgh,Beauty,Perfume,5.0,45.47,227.35,Credit Card
+T100283,C1328,2025-02-10,26.0,Female,GA,Savannah,Clothing,Winter Jacket,2.0,61.5,123.0,Cash
+T100468,C1328,2025-04-21,26.0,Female,GA,Augusta,Electronics,Wireless Earbuds,1.0,142.06,142.06,Cash
+T100805,C1125,2025-04-26,50.0,Male,IL,Naperville,Toys,Board Game,5.0,47.11,235.55,Debit Card
+T100418,C1116,2025-07-19,20.0,Female,GA,Augusta,Clothing,Wool Sweater,9.5,82.17,780.62,Debit Card
+T100308,C1043,2025-02-08,38.0,Male,GA,Augusta,Home & Kitchen,Vacuum Cleaner,3.0,204.54500000000002,613.64,Credit Card
+T100701,C1043,2025-06-14,46.0,Male,GA,Atlanta,Books,Cookbook,8.0,6.61,52.88,PayPal
+T100348,C1117,2025-03-17,25.0,Female,FL,Orlando,Beauty,Makeup Kit,2.0,23.24,46.48,PayPal
+T100542,C1275,2025-08-16,45.0,Male,WA,Tacoma,Clothing,T-Shirt Pack,3.0,34.9,104.7,PayPal
+T100154,C1151,2025-06-05,34.0,Female,OH,Cincinnati,Sports & Outdoors,Camping Tent,1.0,59.13,59.13,Debit Card
+T100863,C1246,2025-02-13,61.0,Female,NY,Buffalo,Books,Self-Help Guide,6.0,14.73,88.38,PayPal
+T100556,C1165,2025-02-14,64.0,Male,FL,Miami,Home & Kitchen,Coffee Maker,3.0,79.08,237.24,PayPal
+T100793,C1255,2025-03-15,26.0,Male,GA,Savannah,Clothing,T-Shirt Pack,1.0,27.66,27.66,Debit Card
+T100167,C1326,2025-06-21,31.0,Female,NC,Charlotte,Toys,Action Figure,4.0,27.86,111.44,Gift Card
+T100245,C1286,2025-10-18,27.0,Male,TX,Austin,Clothing,Running Shoes,1.0,49.59,49.59,Credit Card
+T100806,C1007,2025-04-26,46.0,Male,TX,Dallas,Clothing,Winter Jacket,3.0,53.47,160.41,Debit Card
+T100664,C1086,2025-09-09,23.0,Male,TX,Austin,Sports & Outdoors,Dumbbell Set,3.0,119.06,357.18,Credit Card
+T100332,C1313,2025-05-23,34.0,Female,NC,Charlotte,Toys,Building Blocks,5.0,31.19,155.95,Credit Card
+T100172,C1198,2025-03-13,46.0,Female,NC,Charlotte,Sports & Outdoors,Camping Tent,2.0,97.94,195.88,Gift Card
+T100637,C1274,2025-03-05,46.0,Female,PA,Pittsburgh,Toys,Action Figure,4.0,17.89,71.56,Debit Card
+T100177,C1031,2025-08-18,46.0,Male,FL,Tampa,Home & Kitchen,Cookware Set,3.0,70.48,211.44,Credit Card
+T100677,C1323,2025-08-11,46.0,Female,WA,Tacoma,Sports & Outdoors,Camping Tent,4.0,16.87,67.48,Credit Card
+T100288,C1262,2025-06-04,35.0,Male,FL,Miami,Electronics,Phone Charger,3.0,101.58,304.74,Credit Card
+T100086,C1114,2025-06-29,46.0,Male,OH,Cleveland,Sports & Outdoors,Water Bottle,4.0,129.49,517.96,Gift Card
+T100892,C1207,2025-02-24,73.0,Female,PA,Erie,Beauty,Makeup Kit,4.0,56.28,225.12,Credit Card
+T100913,C1013,2025-10-02,61.0,Female,FL,Tampa,Home & Kitchen,Coffee Maker,1.0,130.97,130.97,Debit Card
+T100632,C1174,2025-05-12,57.0,Male,WA,Seattle,Clothing,T-Shirt Pack,2.0,65.05,130.1,Debit Card
+T100571,C1078,2025-01-08,50.0,Female,NY,Buffalo,Clothing,Running Shoes,2.0,64.44,128.88,Credit Card
+T100668,C1050,2025-05-15,46.0,Female,OH,Columbus,Books,Self-Help Guide,3.0,12.08,36.24,PayPal
+T100436,C1010,2025-01-15,48.0,Male,IL,Naperville,Toys,Board Game,2.0,39.96,79.92,Credit Card
+T100489,C1114,2025-09-19,46.0,Male,OH,Columbus,Sports & Outdoors,Dumbbell Set,3.0,127.92,383.76,PayPal
+T100567,C1257,2025-03-11,23.0,Male,GA,Atlanta,Home & Kitchen,Blender,5.0,108.05,540.25,Debit Card
+T100494,C1070,2025-02-28,63.0,Male,WA,Seattle,Beauty,Face Moisturizer,3.0,49.28,147.84,PayPal
+T100074,C1244,2025-09-16,53.0,Female,TX,Dallas,Home & Kitchen,Coffee Maker,1.0,58.19,58.19,Credit Card
+T100143,C1002,2025-08-09,55.0,Female,NC,Charlotte,Books,Mystery Novel,2.0,27.72,55.44,Debit Card
+T100593,C1214,2025-10-22,60.0,Female,OH,Cleveland,Toys,Board Game,6.0,22.06,132.36,Credit Card
+T100046,C1161,2025-06-06,55.0,Female,PA,Pittsburgh,Beauty,Shampoo Set,3.0,19.14,57.42,Credit Card
+T100131,C1262,2025-04-03,35.0,Male,FL,Tampa,Electronics,Wireless Earbuds,3.0,204.54500000000002,613.64,Gift Card
+T100938,C1339,2025-03-21,72.0,Female,FL,Orlando,Home & Kitchen,Vacuum Cleaner,3.0,69.45,208.35,Credit Card
+T100869,C1058,2025-02-20,60.0,Male,IL,Chicago,Electronics,Smartwatch,7.0,204.54500000000002,1431.82,Credit Card
+T100136,C1027,2025-02-16,64.0,Male,OH,Cincinnati,Sports & Outdoors,Water Bottle,4.0,90.39,361.56,PayPal
+T100611,C1320,2025-06-07,36.0,Male,WA,Spokane,Electronics,Wireless Earbuds,4.0,42.19,168.76,PayPal
+T100792,C1158,2025-04-27,46.0,Male,TX,Dallas,Home & Kitchen,Cookware Set,2.0,109.52,219.04,Credit Card
+T100656,C1249,2025-09-16,46.0,Male,NY,Albany,Toys,Board Game,1.0,29.58,29.58,Credit Card
+T100651,C1050,2025-02-23,61.0,Female,OH,Cleveland,Toys,Puzzle Set,6.0,36.57,219.42,Debit Card
+T100138,C1065,2025-09-27,36.0,Male,NC,Charlotte,Sports & Outdoors,Bicycle Helmet,2.0,51.38,102.76,PayPal
+T100675,C1136,2025-06-21,52.0,Female,CA,San Francisco,Beauty,Shampoo Set,4.0,21.69,86.76,Debit Card
+T100453,C1222,2025-06-28,58.0,Female,PA,Erie,Sports & Outdoors,Bicycle Helmet,2.0,30.91,61.82,PayPal
+T100985,C1260,2025-07-20,63.0,Male,GA,Augusta,Beauty,Shampoo Set,4.0,14.64,58.56,Credit Card
+T100619,C1015,2025-07-25,62.0,Male,GA,Augusta,Electronics,USB Drive,4.0,49.82,199.28,Credit Card
+T100213,C1134,2025-01-20,63.0,Male,FL,Orlando,Electronics,Bluetooth Speaker,5.0,36.1,180.5,Credit Card
+T100699,C1080,2025-10-15,71.0,Male,IL,Springfield,Home & Kitchen,Air Fryer,3.0,55.31,165.93,Gift Card
+T100959,C1203,2025-10-04,57.0,Female,OH,Cleveland,Books,Children's Book,7.0,8.98,62.86,Credit Card
+T100427,C1174,2025-08-19,57.0,Male,WA,Seattle,Electronics,USB Drive,4.0,134.73,538.92,Credit Card
+T100109,C1238,2025-08-07,35.0,Female,WA,Seattle,Beauty,Hair Dryer,4.0,37.06,148.24,Cash
+T100421,C1209,2025-09-12,62.0,Male,TX,Dallas,Home & Kitchen,Blender,2.0,143.09,286.18,Credit Card
+T100804,C1197,2025-07-26,24.0,Male,GA,Savannah,Electronics,USB Drive,2.0,163.35,326.7,Cash
+T100752,C1114,2025-04-14,46.0,Male,OH,Columbus,Electronics,Bluetooth Speaker,3.0,147.75,443.25,Gift Card
+T100983,C1240,2025-05-11,25.0,Male,TX,Dallas,Electronics,Phone Charger,2.0,181.77,363.54,Debit Card
+T100408,C1233,2025-10-27,61.0,Female,GA,Savannah,Books,Mystery Novel,3.0,18.18,54.54,PayPal
+T100615,C1185,2025-07-02,43.0,Male,PA,Philadelphia,Sports & Outdoors,Dumbbell Set,4.0,136.52,546.08,PayPal
+T100749,C1057,2025-01-09,26.0,Male,CA,Sacramento,Sports & Outdoors,Water Bottle,1.0,89.54,89.54,Debit Card
+T100927,C1111,2025-06-07,62.0,Female,OH,Cincinnati,Home & Kitchen,Coffee Maker,3.0,60.9,182.7,Gift Card
+T100275,C1174,2025-05-09,57.0,Male,WA,Tacoma,Beauty,Perfume,4.0,37.82,151.28,Gift Card
+T100519,C1200,2025-10-02,38.0,Male,OH,Cincinnati,Toys,Building Blocks,4.0,46.45,185.8,PayPal
+T100746,C1176,2025-06-30,58.0,Male,GA,Atlanta,Electronics,Smartwatch,1.0,146.65,146.65,PayPal
+T100107,C1294,2025-06-02,49.0,Male,PA,Pittsburgh,Clothing,Denim Jeans,5.0,29.13,145.65,PayPal
+T100541,C1329,2025-09-13,49.0,Female,WA,Seattle,Toys,Puzzle Set,4.0,24.77,99.08,Debit Card
+T100125,C1151,2025-09-13,34.0,Female,OH,Columbus,Sports & Outdoors,Yoga Mat,5.0,16.37,81.85,Debit Card
+T100992,C1247,2025-08-04,41.0,Male,FL,Orlando,Books,Children's Book,5.0,25.89,129.45,Credit Card
+T100659,C1330,2025-08-20,46.0,Male,NY,New York City,Electronics,Phone Charger,3.0,204.54500000000002,613.64,Credit Card
+T100687,C1232,2025-07-13,19.0,Male,NY,New York City,Clothing,Winter Jacket,3.0,40.79,122.37,Credit Card
+T100063,C1210,2025-03-25,32.0,Male,NC,Raleigh,Electronics,Smartwatch,6.0,180.18,1081.08,Debit Card
+T100100,C1246,2025-03-09,46.0,Female,NY,Buffalo,Home & Kitchen,Cookware Set,7.0,101.54,710.78,Debit Card
+T100500,C1193,2025-08-26,38.0,Female,NC,Charlotte,Electronics,Smartwatch,2.0,107.61,215.22,Gift Card
+T100262,C1245,2025-08-27,22.0,Female,NY,Albany,Toys,Board Game,8.0,19.7,157.6,Credit Card
+T100048,C1237,2025-02-01,42.0,Male,WA,Tacoma,Electronics,Wireless Earbuds,1.0,145.82,145.82,Debit Card
+T100225,C1185,2025-05-14,43.0,Male,PA,Philadelphia,Toys,Remote Control Car,3.0,43.55,130.65,Cash
+T100845,C1101,2025-10-01,29.0,Female,NY,Albany,Electronics,Bluetooth Speaker,2.0,204.0,408.0,PayPal
+T100891,C1196,2025-02-15,37.0,Male,WA,Spokane,Home & Kitchen,Cookware Set,3.0,39.54,118.62,Gift Card
+T100880,C1240,2025-06-01,46.0,Male,TX,Houston,Books,Self-Help Guide,8.0,17.77,142.16,PayPal
+T100947,C1283,2025-05-31,45.0,Female,NC,Charlotte,Home & Kitchen,Vacuum Cleaner,2.0,67.18,134.36,Debit Card
+T100057,C1309,2025-10-10,24.0,Female,FL,Tampa,Clothing,Running Shoes,4.0,24.47,97.88,Debit Card
+T100208,C1057,2025-10-15,26.0,Male,CA,Sacramento,Electronics,Wireless Earbuds,4.0,173.36,693.44,Credit Card
+T100171,C1152,2025-06-24,70.0,Female,FL,Orlando,Beauty,Shampoo Set,4.0,36.56,146.24,Credit Card
+T100708,C1264,2025-07-31,74.0,Female,FL,Miami,Books,Mystery Novel,3.0,25.55,76.65,Credit Card
+T100002,C1000,2025-05-09,23.0,Female,NY,New York City,Books,Self-Help Guide,8.0,26.38,211.04,Cash
+T100841,C1193,2025-01-17,46.0,Female,NC,Raleigh,Clothing,Winter Jacket,4.0,46.72,186.88,Credit Card
+T100558,C1144,2025-03-20,74.0,Female,WA,Seattle,Clothing,Wool Sweater,2.0,72.43,144.86,PayPal
+T100837,C1185,2025-09-06,43.0,Male,PA,Pittsburgh,Clothing,Running Shoes,4.0,36.12,144.48,PayPal
+T100871,C1168,2025-02-17,37.0,Female,WA,Tacoma,Clothing,Running Shoes,3.0,40.03,120.09,Gift Card
+T100343,C1138,2025-10-25,37.0,Female,FL,Miami,Beauty,Face Moisturizer,4.0,31.29,125.16,Credit Card
+T100918,C1310,2025-05-14,55.0,Female,IL,Chicago,Books,Cookbook,7.0,15.39,107.73,Cash
+T100399,C1122,2025-03-27,55.0,Male,PA,Philadelphia,Home & Kitchen,Vacuum Cleaner,2.0,45.75,91.5,Credit Card
+T100818,C1227,2025-07-25,51.0,Female,IL,Chicago,Books,Cookbook,7.0,203.94,1427.58,Credit Card
+T100236,C1183,2025-05-30,57.0,Female,GA,Savannah,Home & Kitchen,Blender,3.0,52.49,157.47,PayPal
+T100462,C1096,2025-05-16,31.0,Female,PA,Philadelphia,Clothing,Denim Jeans,5.0,15.45,77.25,Debit Card
+T100532,C1117,2025-06-29,25.0,Female,FL,Tampa,Sports & Outdoors,Camping Tent,2.0,64.19,128.38,Credit Card
+T100680,C1156,2025-03-26,25.0,Male,FL,Tampa,Clothing,Wool Sweater,7.0,70.54,493.78,Credit Card
+T100084,C1184,2025-02-18,46.0,Female,OH,Columbus,Sports & Outdoors,Bicycle Helmet,6.0,28.42,170.52,Credit Card
+T100368,C1272,2025-07-16,26.0,Male,IL,Springfield,Books,Biography,5.0,23.97,119.85,Credit Card
+T100377,C1262,2025-09-30,35.0,Male,FL,Orlando,Home & Kitchen,Vacuum Cleaner,3.0,96.9,290.7,Credit Card
+T100350,C1154,2025-01-09,42.0,Male,NY,Buffalo,Electronics,Bluetooth Speaker,4.0,32.1,128.4,Debit Card
+T100828,C1267,2025-01-12,37.0,Female,TX,Houston,Clothing,Wool Sweater,6.0,89.45,536.7,Debit Card
+T100832,C1118,2025-08-10,31.0,Male,GA,Atlanta,Sports & Outdoors,Dumbbell Set,4.0,66.27,265.08,Gift Card
+T100585,C1201,2025-04-20,69.0,Female,WA,Spokane,Electronics,Smartwatch,3.0,66.49,199.47,Debit Card
+T100287,C1327,2025-04-27,20.0,Male,GA,Atlanta,Electronics,USB Drive,6.0,62.71,376.26,Debit Card
+T100678,C1023,2025-08-10,70.0,Male,FL,Orlando,Home & Kitchen,Blender,3.0,156.39,469.17,PayPal
+T100553,C1284,2025-02-17,43.0,Female,OH,Cincinnati,Beauty,Shampoo Set,2.0,11.55,23.1,Credit Card
+T100628,C1304,2025-05-28,48.0,Female,NC,Raleigh,Books,Mystery Novel,3.0,19.27,57.81,Credit Card
+T100970,C1061,2025-03-03,60.0,Female,PA,Erie,Sports & Outdoors,Bicycle Helmet,4.0,118.38,473.52,Credit Card
+T100370,C1210,2025-04-01,32.0,Male,NC,Raleigh,Electronics,USB Drive,4.0,86.82,347.28,Cash
+T100596,C1007,2025-05-09,57.0,Male,TX,Houston,Books,Children's Book,8.0,13.78,110.24,PayPal
+T100307,C1197,2025-06-02,24.0,Female,GA,Augusta,Home & Kitchen,Vacuum Cleaner,4.0,134.37,537.48,Debit Card
+T100501,C1249,2025-03-18,20.0,Male,NY,Albany,Toys,Action Figure,3.0,38.98,116.94,Credit Card
+T100064,C1038,2025-09-03,33.0,Female,IL,Naperville,Books,Mystery Novel,4.0,17.6,70.4,Debit Card
+T100132,C1292,2025-05-01,72.0,Male,GA,Savannah,Electronics,USB Drive,4.0,32.56,130.24,Credit Card
+T100594,C1224,2025-07-16,59.0,Female,NC,Charlotte,Toys,Action Figure,4.0,38.56,154.24,Credit Card
+T100623,C1270,2025-10-04,34.0,Male,TX,Austin,Toys,Board Game,6.0,16.82,100.92,Cash
+T100689,C1202,2025-04-15,46.0,Female,PA,Erie,Electronics,Wireless Earbuds,2.0,204.54500000000002,409.09,PayPal
+T100081,C1178,2025-02-22,69.0,Male,NC,Durham,Toys,Board Game,6.0,27.36,164.16,Debit Card
+T100267,C1034,2025-01-24,68.0,Female,NY,New York City,Sports & Outdoors,Bicycle Helmet,2.0,111.63,223.26,Credit Card
+T100552,C1039,2025-01-24,54.0,Female,FL,Tampa,Beauty,Shampoo Set,4.0,40.71,162.84,Credit Card
+T100115,C1333,2025-06-10,65.0,Female,PA,Philadelphia,Home & Kitchen,Coffee Maker,4.0,130.26,521.04,Credit Card
+T100374,C1021,2025-05-09,39.0,Female,NC,Durham,Beauty,Makeup Kit,6.0,42.25,253.5,Debit Card
+T100597,C1033,2025-05-17,49.0,Female,PA,Pittsburgh,Clothing,Denim Jeans,4.0,79.71,318.84,Credit Card
+T100625,C1266,2025-10-19,43.0,Female,PA,Erie,Sports & Outdoors,Yoga Mat,2.0,51.12,102.24,Debit Card
+T100982,C1074,2025-05-22,57.0,Male,FL,Orlando,Beauty,Shampoo Set,3.0,19.1,57.3,Debit Card
+T100803,C1038,2025-07-20,33.0,Female,IL,Springfield,Electronics,Wireless Earbuds,2.0,97.82,195.64,Cash
+T100785,C1019,2025-01-25,43.0,Female,NC,Durham,Sports & Outdoors,Camping Tent,1.0,100.76,100.76,Debit Card
+T100452,C1057,2025-09-21,26.0,Male,CA,Sacramento,Books,Children's Book,5.0,7.19,35.95,Debit Card
+T100467,C1209,2025-04-23,62.0,Female,TX,Austin,Toys,Board Game,5.0,11.06,55.3,Debit Card
+T100299,C1300,2025-05-27,38.0,Female,CA,Los Angeles,Toys,Board Game,8.0,21.87,174.96,Gift Card
+T100300,C1221,2025-07-02,43.0,Female,GA,Augusta,Electronics,Wireless Earbuds,1.0,121.18,121.18,Credit Card
+T100580,C1275,2025-03-04,45.0,Male,WA,Seattle,Electronics,USB Drive,3.0,141.02,423.06,Credit Card
+T100703,C1132,2025-08-08,23.0,Male,IL,Chicago,Sports & Outdoors,Camping Tent,2.0,34.3,68.6,Debit Card
+T100769,C1336,2025-02-01,72.0,Female,FL,Orlando,Clothing,Wool Sweater,2.0,57.24,114.48,PayPal
+T100817,C1150,2025-03-29,66.0,Female,OH,Columbus,Home & Kitchen,Blender,1.0,32.66,32.66,Cash
+T100704,C1264,2025-06-27,74.0,Female,FL,Orlando,Books,Cookbook,4.0,26.73,106.92,Credit Card
+T100006,C1187,2025-08-12,39.0,Male,GA,Savannah,Home & Kitchen,Vacuum Cleaner,2.0,65.15,130.3,Cash
+T100565,C1157,2025-03-29,49.0,Male,CA,Sacramento,Clothing,Wool Sweater,4.0,93.98,375.92,PayPal
+T100802,C1329,2025-08-22,49.0,Female,WA,Spokane,Books,Biography,5.0,18.65,93.25,Credit Card
+T100717,C1299,2025-04-20,19.0,Female,FL,Miami,Electronics,USB Drive,7.0,108.5,759.5,Credit Card
+T100266,C1224,2025-01-03,59.0,Female,NC,Raleigh,Toys,Action Figure,6.0,18.63,111.78,Credit Card
+T100040,C1114,2025-06-26,46.0,Male,OH,Cincinnati,Home & Kitchen,Vacuum Cleaner,5.0,40.56,202.8,PayPal
+T100890,C1321,2025-06-15,24.0,Male,CA,San Francisco,Clothing,Winter Jacket,4.0,85.89,343.56,Debit Card
+T100451,C1188,2025-08-13,31.0,Female,TX,Austin,Home & Kitchen,Cookware Set,9.5,103.24,980.78,Debit Card
+T100607,C1144,2025-04-20,74.0,Female,WA,Spokane,Electronics,Smartwatch,3.0,102.85,308.55,PayPal
+T100981,C1153,2025-06-10,34.0,Male,CA,Los Angeles,Toys,Action Figure,4.0,35.49,141.96,Cash
+T100017,C1003,2025-01-15,43.0,Male,NC,Raleigh,Clothing,Wool Sweater,3.0,30.74,92.22,Cash
+T100319,C1089,2025-08-22,65.0,Male,NY,New York City,Clothing,T-Shirt Pack,3.0,50.13,150.39,Credit Card
+T100214,C1022,2025-07-29,28.0,Female,IL,Springfield,Beauty,Face Moisturizer,5.0,64.24,321.2,Debit Card
+T100253,C1119,2025-08-15,24.0,Female,WA,Tacoma,Toys,Puzzle Set,8.0,37.23,297.84,Debit Card
+T100653,C1023,2025-10-06,70.0,Male,FL,Tampa,Books,Cookbook,4.0,12.49,49.96,Cash
+T100426,C1116,2025-09-15,20.0,Female,GA,Savannah,Electronics,USB Drive,2.0,84.21,168.42,PayPal
+T100627,C1011,2025-03-27,73.0,Male,CA,San Francisco,Sports & Outdoors,Water Bottle,2.0,58.08,116.16,PayPal
+T100378,C1071,2025-10-10,28.0,Male,IL,Chicago,Beauty,Makeup Kit,3.0,28.38,85.14,Cash
+T100277,C1137,2025-04-05,19.0,Male,NC,Durham,Sports & Outdoors,Dumbbell Set,3.0,67.1,201.3,Debit Card
+T100219,C1011,2025-02-20,73.0,Male,CA,Los Angeles,Home & Kitchen,Coffee Maker,2.0,133.1,266.2,Credit Card
+T100697,C1091,2025-02-27,63.0,Male,TX,Houston,Clothing,Running Shoes,1.0,62.64,62.64,Debit Card
+T100478,C1084,2025-07-28,53.0,Female,FL,Miami,Beauty,Shampoo Set,3.0,19.14,57.42,Debit Card
+T100684,C1210,2025-02-08,32.0,Male,NC,Durham,Beauty,Perfume,2.0,47.1,94.2,PayPal
+T100018,C1247,2025-01-18,41.0,Male,FL,Miami,Sports & Outdoors,Yoga Mat,2.0,124.77,249.54,Credit Card
+T100787,C1017,2025-06-13,25.0,Female,NY,Buffalo,Clothing,Running Shoes,3.0,32.31,96.93,PayPal
+T100681,C1154,2025-10-16,42.0,Male,NY,New York City,Beauty,Shampoo Set,3.0,8.11,24.33,Debit Card
+T100770,C1321,2025-09-06,24.0,Male,CA,Los Angeles,Electronics,Phone Charger,4.0,92.45,369.8,Cash
+T100032,C1310,2025-06-05,55.0,Female,IL,Naperville,Beauty,Shampoo Set,4.0,47.98,191.92,PayPal
+T100053,C1265,2025-02-01,51.0,Female,NY,Albany,Home & Kitchen,Coffee Maker,4.0,135.75,543.0,Debit Card
+T100662,C1251,2025-05-30,46.0,Female,CA,San Francisco,Books,Self-Help Guide,3.0,23.54,70.62,Debit Card
+T100872,C1164,2025-02-25,41.0,Female,IL,Naperville,Toys,Board Game,5.0,40.25,201.25,PayPal
+T100758,C1117,2025-06-28,25.0,Female,FL,Miami,Electronics,Bluetooth Speaker,2.0,204.54500000000002,409.09,PayPal
+T100721,C1206,2025-03-21,61.0,Male,CA,Los Angeles,Electronics,Phone Charger,3.0,104.69,314.07,PayPal
+T100966,C1317,2025-09-26,59.0,Female,TX,Austin,Home & Kitchen,Blender,3.0,49.47,148.41,PayPal
+T100292,C1316,2025-07-21,59.0,Female,OH,Columbus,Home & Kitchen,Cookware Set,4.0,122.1,488.4,Credit Card
+T100865,C1257,2025-05-26,23.0,Male,GA,Augusta,Beauty,Face Moisturizer,1.0,50.76,50.76,Gift Card
+T100952,C1056,2025-01-05,49.0,Female,GA,Atlanta,Books,Self-Help Guide,5.0,6.14,30.7,Cash
+T100078,C1228,2025-06-18,49.0,Female,FL,Tampa,Books,Mystery Novel,5.0,12.88,64.4,Debit Card
+T100295,C1238,2025-02-12,35.0,Female,WA,Spokane,Toys,Board Game,8.0,26.11,208.88,Credit Card
+T100598,C1335,2025-04-19,64.0,Male,IL,Springfield,Toys,Building Blocks,4.0,50.39,201.56,Credit Card
+T100042,C1055,2025-02-25,20.0,Male,CA,Los Angeles,Clothing,Wool Sweater,2.0,94.23,188.46,Cash
+T100635,C1306,2025-05-13,35.0,Female,OH,Cleveland,Toys,Board Game,8.0,41.04,328.32,Credit Card
+T100015,C1116,2025-09-16,20.0,Female,GA,Augusta,Toys,Board Game,6.0,25.82,154.92,Credit Card
+T100724,C1114,2025-02-05,46.0,Male,OH,Cleveland,Clothing,Wool Sweater,1.0,31.59,31.59,Gift Card
+T100561,C1209,2025-10-27,62.0,Male,TX,Austin,Books,Biography,3.0,24.01,72.03,Debit Card
+T100027,C1135,2025-04-01,35.0,Female,WA,Tacoma,Home & Kitchen,Blender,3.0,108.52,325.56,Debit Card
+T100094,C1070,2025-05-14,63.0,Male,WA,Tacoma,Sports & Outdoors,Camping Tent,3.0,128.45,385.35,PayPal
+T100502,C1288,2025-05-22,48.0,Male,IL,Chicago,Clothing,Running Shoes,4.0,44.93,179.72,Credit Card
+T100747,C1281,2025-04-16,45.0,Male,IL,Springfield,Beauty,Face Moisturizer,9.5,25.79,245.0,PayPal
+T100636,C1012,2025-01-29,59.0,Female,GA,Savannah,Home & Kitchen,Air Fryer,3.0,157.26,471.78,Credit Card
+T100025,C1024,2025-06-17,62.0,Female,GA,Augusta,Beauty,Makeup Kit,5.0,18.67,93.35,Credit Card
+T100455,C1025,2025-01-05,54.0,Female,CA,Sacramento,Home & Kitchen,Vacuum Cleaner,3.0,41.78,125.34,Credit Card
+T100216,C1195,2025-06-20,22.0,Female,CA,Los Angeles,Electronics,Wireless Earbuds,4.0,132.92,531.68,PayPal
+T100030,C1112,2025-02-09,49.0,Female,GA,Atlanta,Home & Kitchen,Coffee Maker,2.0,77.14,154.28,PayPal
+T100648,C1264,2025-07-21,74.0,Female,FL,Orlando,Home & Kitchen,Air Fryer,4.0,23.08,92.32,PayPal
+T100305,C1165,2025-04-04,64.0,Male,FL,Tampa,Beauty,Hair Dryer,5.0,45.35,226.75,Credit Card
+T100997,C1190,2025-08-03,56.0,Male,OH,Columbus,Sports & Outdoors,Bicycle Helmet,4.0,128.18,512.72,Credit Card
+T100474,C1133,2025-10-25,49.0,Female,PA,Pittsburgh,Clothing,Running Shoes,2.0,71.54,143.08,Debit Card
+T100459,C1169,2025-08-23,19.0,Male,NY,Buffalo,Books,Cookbook,3.0,28.29,84.87,Credit Card
+T100317,C1012,2025-08-06,59.0,Female,GA,Augusta,Beauty,Face Moisturizer,2.0,17.44,34.88,Credit Card
+T100590,C1158,2025-06-21,46.0,Male,TX,Dallas,Electronics,Bluetooth Speaker,3.0,36.54,109.62,PayPal
+T100134,C1236,2025-02-06,55.0,Female,TX,Houston,Clothing,T-Shirt Pack,4.0,42.63,170.52,PayPal
+T100105,C1305,2025-08-09,25.0,Female,CA,Sacramento,Sports & Outdoors,Bicycle Helmet,4.0,88.73,354.92,Debit Card
+T100007,C1164,2025-01-27,41.0,Female,IL,Springfield,Sports & Outdoors,Dumbbell Set,1.0,31.26,31.26,Credit Card
+T100605,C1081,2025-04-12,42.0,Male,IL,Naperville,Beauty,Face Moisturizer,4.0,39.5,158.0,Debit Card
+T100230,C1046,2025-03-02,43.0,Female,PA,Erie,Clothing,T-Shirt Pack,1.0,17.63,17.63,Debit Card
+T100386,C1142,2025-04-03,33.0,Female,NC,Raleigh,Clothing,Denim Jeans,3.0,39.14,117.42,Debit Card
+T100836,C1316,2025-08-20,59.0,Female,OH,Columbus,Books,Self-Help Guide,1.0,31.37,31.37,Gift Card
+T100301,C1337,2025-01-09,46.0,Female,CA,Sacramento,Toys,Building Blocks,3.0,16.23,48.69,PayPal
+T100390,C1091,2025-07-12,46.0,Male,TX,Dallas,Beauty,Perfume,2.0,22.67,45.34,Credit Card
+T100901,C1053,2025-01-29,44.0,Male,WA,Spokane,Books,Self-Help Guide,6.0,23.35,140.1,Debit Card
+T100726,C1189,2025-06-06,35.0,Male,PA,Erie,Home & Kitchen,Vacuum Cleaner,4.0,87.25,349.0,Debit Card
+T100789,C1066,2025-04-12,69.0,Female,NC,Raleigh,Electronics,USB Drive,3.0,110.95,332.85,Credit Card
+T100826,C1281,2025-05-20,45.0,Male,IL,Naperville,Sports & Outdoors,Bicycle Helmet,1.0,106.47,106.47,PayPal
+T100199,C1186,2025-08-26,27.0,Male,WA,Seattle,Beauty,Perfume,3.0,54.85,164.55,Credit Card
+T100119,C1157,2025-01-17,49.0,Male,CA,San Francisco,Home & Kitchen,Coffee Maker,3.0,69.73,209.19,Credit Card
+T100080,C1305,2025-05-11,46.0,Female,CA,Sacramento,Electronics,Smartwatch,3.0,102.07,306.21,Gift Card
+T100271,C1148,2025-06-01,64.0,Female,PA,Pittsburgh,Sports & Outdoors,Bicycle Helmet,6.0,95.54,573.24,Debit Card
+T100518,C1014,2025-04-17,58.0,Female,NY,Buffalo,Toys,Remote Control Car,7.0,9.69,67.83,Debit Card
+T100211,C1306,2025-08-05,35.0,Female,OH,Columbus,Electronics,Bluetooth Speaker,2.0,173.4,346.8,Credit Card
+T100676,C1211,2025-01-12,58.0,Male,GA,Atlanta,Beauty,Face Moisturizer,4.0,14.02,56.08,PayPal
+T100369,C1122,2025-01-06,55.0,Male,PA,Erie,Home & Kitchen,Coffee Maker,9.5,88.09,836.86,Credit Card
+T100294,C1149,2025-10-16,21.0,Male,PA,Pittsburgh,Toys,Puzzle Set,8.0,12.49,99.92,Debit Card
+T100940,C1082,2025-08-25,27.0,Female,PA,Pittsburgh,Electronics,USB Drive,2.0,182.44,364.88,Debit Card
+T100666,C1244,2025-07-25,53.0,Female,TX,Dallas,Books,Biography,6.0,19.1,114.6,PayPal
+T100481,C1318,2025-04-24,71.0,Male,GA,Augusta,Sports & Outdoors,Camping Tent,2.0,118.65,237.3,Cash
+T100581,C1179,2025-10-07,46.0,Female,OH,Columbus,Beauty,Shampoo Set,3.0,50.68,152.04,PayPal
+T100258,C1266,2025-10-25,43.0,Female,PA,Pittsburgh,Beauty,Shampoo Set,1.0,23.86,23.86,Debit Card
+T100866,C1276,2025-06-09,44.0,Male,TX,Dallas,Sports & Outdoors,Dumbbell Set,6.0,117.97,707.82,Credit Card
+T100101,C1082,2025-07-23,27.0,Female,PA,Pittsburgh,Toys,Action Figure,5.0,45.53,227.65,Credit Card
+T100396,C1087,2025-04-09,35.0,Female,PA,Erie,Books,Cookbook,8.0,29.84,238.72,Cash
+T100480,C1227,2025-07-12,51.0,Female,IL,Naperville,Beauty,Hair Dryer,1.0,18.1,18.1,Credit Card
+T100562,C1016,2025-10-06,47.0,Female,PA,Erie,Sports & Outdoors,Yoga Mat,5.0,77.83,389.15,Credit Card
+T100572,C1069,2025-06-25,44.0,Female,CA,Sacramento,Clothing,Winter Jacket,4.0,89.42,357.68,Gift Card
+T100950,C1115,2025-06-02,46.0,Female,NY,Buffalo,Clothing,Wool Sweater,3.0,57.19,171.57,Credit Card
+T100464,C1215,2025-05-01,33.0,Female,FL,Orlando,Home & Kitchen,Vacuum Cleaner,3.0,66.54,199.62,Cash
+T100735,C1151,2025-09-10,34.0,Female,OH,Cleveland,Electronics,USB Drive,2.0,147.04,294.08,Debit Card
+T100808,C1188,2025-01-01,31.0,Female,TX,Austin,Sports & Outdoors,Camping Tent,2.0,33.75,67.5,Cash
+T100935,C1257,2025-10-25,23.0,Male,GA,Augusta,Books,Biography,5.0,27.98,139.9,Credit Card
+T100174,C1159,2025-02-21,62.0,Female,NY,Albany,Home & Kitchen,Cookware Set,3.0,109.99,329.97,Credit Card
+T100512,C1169,2025-10-10,19.0,Male,NY,Buffalo,Clothing,Running Shoes,2.0,23.93,47.86,Credit Card
+T100934,C1231,2025-03-18,46.0,Male,IL,Chicago,Clothing,T-Shirt Pack,4.0,43.64,174.56,Credit Card
+T100473,C1014,2025-07-26,46.0,Male,NY,New York City,Toys,Building Blocks,7.0,34.41,240.87,Debit Card
+T100366,C1161,2025-05-26,55.0,Female,PA,Pittsburgh,Home & Kitchen,Coffee Maker,4.0,120.33,481.32,Credit Card
+T100768,C1030,2025-10-15,43.0,Male,WA,Spokane,Sports & Outdoors,Yoga Mat,1.0,27.35,27.35,Gift Card
+T100498,C1232,2025-03-27,19.0,Male,NY,Albany,Home & Kitchen,Blender,4.0,88.72,354.88,PayPal
+T100809,C1060,2025-04-15,70.0,Female,PA,Erie,Sports & Outdoors,Water Bottle,3.0,85.84,257.52,PayPal
+T100719,C1133,2025-04-01,49.0,Female,PA,Erie,Books,Self-Help Guide,7.0,31.81,222.67,Cash
+T100644,C1076,2025-10-03,36.0,Female,NC,Charlotte,Books,Biography,4.0,11.58,46.32,PayPal
+T100527,C1032,2025-02-04,23.0,Female,WA,Spokane,Books,Children's Book,6.0,28.0,168.0,Credit Card
+T100357,C1307,2025-09-10,49.0,Male,NY,Buffalo,Home & Kitchen,Coffee Maker,3.0,113.09,339.27,Cash
+T100185,C1075,2025-09-05,45.0,Male,NY,Buffalo,Clothing,Running Shoes,3.0,69.71,209.13,PayPal
+T100696,C1192,2025-09-14,46.0,Female,IL,Springfield,Sports & Outdoors,Bicycle Helmet,4.0,111.68,446.72,Credit Card
+T100815,C1255,2025-05-27,26.0,Male,GA,Augusta,Electronics,Smartwatch,6.0,70.35,422.1,Debit Card
+T100679,C1121,2025-02-21,56.0,Female,FL,Miami,Books,Children's Book,6.0,26.59,159.54,Debit Card
+T100763,C1312,2025-01-12,24.0,Female,IL,Naperville,Beauty,Hair Dryer,2.0,9.81,19.62,Gift Card
+T100578,C1162,2025-07-01,41.0,Male,OH,Cleveland,Home & Kitchen,Cookware Set,4.0,21.99,87.96,PayPal
+T100727,C1334,2025-05-23,46.0,Male,TX,Austin,Beauty,Perfume,2.0,32.72,65.44,Gift Card
+T100874,C1088,2025-09-18,61.0,Female,PA,Philadelphia,Toys,Remote Control Car,2.0,42.67,85.34,Gift Card
+T100903,C1026,2025-04-17,46.0,Male,TX,Dallas,Home & Kitchen,Blender,1.0,51.2,51.2,Credit Card
+T100923,C1015,2025-06-26,62.0,Male,GA,Atlanta,Books,Mystery Novel,3.0,19.43,58.29,Credit Card
+T100776,C1274,2025-02-05,41.0,Female,PA,Pittsburgh,Toys,Puzzle Set,4.0,51.61,206.44,Debit Card
+T100383,C1088,2025-04-10,61.0,Female,PA,Erie,Electronics,Phone Charger,4.0,110.7,442.8,Gift Card
+T100772,C1011,2025-04-05,46.0,Male,CA,Sacramento,Toys,Board Game,8.0,42.93,343.44,Debit Card
+T100548,C1006,2025-10-21,22.0,Female,NY,Buffalo,Electronics,Wireless Earbuds,3.0,204.54500000000002,613.64,Credit Card
+T100835,C1080,2025-09-24,71.0,Female,IL,Chicago,Clothing,Winter Jacket,3.0,46.03,138.09,PayPal
+T100916,C1135,2025-06-06,35.0,Female,WA,Seattle,Home & Kitchen,Cookware Set,2.0,154.18,308.36,Debit Card
+T100441,C1176,2025-04-12,46.0,Male,GA,Savannah,Clothing,Running Shoes,5.0,63.42,317.1,Debit Card
+T100135,C1119,2025-07-31,46.0,Female,WA,Tacoma,Sports & Outdoors,Dumbbell Set,2.0,138.3,276.6,Debit Card
+T100707,C1058,2025-10-09,60.0,Male,IL,Springfield,Books,Cookbook,2.0,22.49,44.98,Debit Card
+T100356,C1027,2025-08-05,64.0,Male,OH,Cincinnati,Beauty,Makeup Kit,5.0,41.0,205.0,Debit Card
+T100948,C1319,2025-01-10,61.0,Male,IL,Chicago,Home & Kitchen,Vacuum Cleaner,5.0,49.29,246.45,Debit Card
+T100247,C1183,2025-07-14,57.0,Male,GA,Savannah,Clothing,Running Shoes,3.0,52.68,158.04,Credit Card
+T100936,C1003,2025-05-22,43.0,Male,NC,Durham,Electronics,Wireless Earbuds,2.0,30.49,60.98,Debit Card
+T100515,C1221,2025-10-09,43.0,Female,GA,Augusta,Home & Kitchen,Vacuum Cleaner,2.0,67.46,134.92,Credit Card
+T100397,C1061,2025-06-12,60.0,Female,PA,Erie,Home & Kitchen,Blender,3.0,129.89,389.67,PayPal
+T100375,C1175,2025-02-08,44.0,Male,OH,Columbus,Books,Mystery Novel,5.0,7.21,36.05,Credit Card
+T100242,C1027,2025-04-21,64.0,Male,OH,Cincinnati,Books,Self-Help Guide,6.0,25.49,152.94,Gift Card
+T100563,C1085,2025-09-13,57.0,Male,CA,San Francisco,Beauty,Face Moisturizer,2.0,15.73,31.46,Cash
+T100700,C1301,2025-08-12,65.0,Female,TX,Dallas,Clothing,Denim Jeans,4.0,59.76,239.04,Credit Card
+T100819,C1228,2025-02-15,49.0,Female,FL,Miami,Electronics,Smartwatch,3.0,35.95,107.85,Debit Card
+T100894,C1331,2025-05-02,39.0,Male,FL,Orlando,Beauty,Hair Dryer,6.0,15.77,94.62,Gift Card
+T100334,C1297,2025-05-31,43.0,Male,WA,Seattle,Sports & Outdoors,Yoga Mat,1.0,108.64,108.64,Gift Card
+T100146,C1274,2025-01-15,41.0,Female,PA,Philadelphia,Electronics,USB Drive,9.5,160.3,1522.85,Cash
+T100683,C1157,2025-07-31,49.0,Male,CA,San Francisco,Home & Kitchen,Air Fryer,2.0,124.33,248.66,Credit Card
+T100995,C1311,2025-02-12,56.0,Female,GA,Savannah,Books,Self-Help Guide,7.0,14.64,102.48,Credit Card
+T100491,C1176,2025-04-18,46.0,Female,GA,Atlanta,Books,Biography,5.0,17.25,86.25,Credit Card
+T100326,C1071,2025-10-09,28.0,Male,IL,Springfield,Electronics,Wireless Earbuds,5.0,57.28,286.4,PayPal
+T100469,C1139,2025-02-09,42.0,Female,FL,Tampa,Clothing,T-Shirt Pack,1.0,84.05,84.05,PayPal
+T100140,C1281,2025-07-04,45.0,Male,IL,Springfield,Home & Kitchen,Cookware Set,2.0,69.3,138.6,Credit Card
+T100939,C1292,2025-08-26,72.0,Male,GA,Atlanta,Toys,Building Blocks,5.0,11.56,57.8,Credit Card
+T100754,C1225,2025-05-24,35.0,Female,PA,Erie,Home & Kitchen,Cookware Set,5.0,154.67,773.35,Debit Card
+T100796,C1320,2025-02-16,46.0,Male,WA,Tacoma,Sports & Outdoors,Yoga Mat,4.0,56.27,225.08,Debit Card
+T100778,C1019,2025-04-05,43.0,Female,NC,Charlotte,Sports & Outdoors,Yoga Mat,3.0,19.43,58.29,Credit Card
+T100993,C1068,2025-01-06,22.0,Female,OH,Cleveland,Toys,Building Blocks,6.0,46.54,279.24,Credit Card
+T100026,C1019,2025-03-26,43.0,Female,NC,Raleigh,Sports & Outdoors,Bicycle Helmet,3.0,204.54500000000002,613.64,Credit Card
+T100155,C1321,2025-02-01,24.0,Male,CA,San Francisco,Electronics,Smartwatch,5.0,90.97,454.85,Debit Card
+T100926,C1277,2025-04-08,62.0,Male,OH,Columbus,Home & Kitchen,Vacuum Cleaner,3.0,103.58,310.74,Credit Card
+T100888,C1312,2025-05-23,24.0,Male,IL,Springfield,Toys,Action Figure,8.0,29.37,234.96,Cash
+T100686,C1088,2025-01-05,61.0,Female,PA,Pittsburgh,Beauty,Face Moisturizer,2.0,24.22,48.44,Debit Card
+T100710,C1137,2025-06-10,19.0,Male,NC,Raleigh,Home & Kitchen,Coffee Maker,5.0,50.72,253.6,Debit Card
+T100389,C1247,2025-02-02,41.0,Male,FL,Orlando,Beauty,Hair Dryer,2.0,42.68,85.36,Debit Card
+T100600,C1028,2025-05-24,49.0,Female,OH,Cleveland,Clothing,Winter Jacket,3.0,40.37,121.11,PayPal
+T100434,C1175,2025-10-27,46.0,Male,OH,Columbus,Electronics,Smartwatch,2.0,44.56,89.12,Gift Card
+T100099,C1136,2025-04-18,46.0,Female,CA,Los Angeles,Sports & Outdoors,Camping Tent,4.0,64.77,259.08,Credit Card
+T100407,C1087,2025-09-27,35.0,Female,PA,Pittsburgh,Home & Kitchen,Cookware Set,3.0,97.39,292.17,PayPal
+T100858,C1206,2025-06-22,46.0,Male,CA,Sacramento,Home & Kitchen,Vacuum Cleaner,5.0,28.85,144.25,Credit Card
+T100166,C1226,2025-09-03,64.0,Male,NC,Raleigh,Books,Biography,5.0,18.81,94.05,Gift Card
+T100344,C1012,2025-10-09,59.0,Female,GA,Augusta,Home & Kitchen,Blender,1.0,38.53,38.53,PayPal
+T100713,C1236,2025-05-15,55.0,Female,TX,Houston,Books,Cookbook,6.0,10.11,60.66,Credit Card
+T100023,C1181,2025-04-19,46.0,Female,IL,Naperville,Home & Kitchen,Cookware Set,6.0,42.58,255.48,Credit Card
+T100893,C1298,2025-02-05,46.0,Female,IL,Naperville,Sports & Outdoors,Camping Tent,4.0,115.34,461.36,Credit Card
+T100204,C1218,2025-09-23,43.0,Female,TX,Dallas,Home & Kitchen,Cookware Set,5.0,33.66,168.3,Credit Card
+T100033,C1185,2025-10-14,43.0,Male,PA,Pittsburgh,Books,Self-Help Guide,8.0,21.87,174.96,Gift Card
+T100197,C1108,2025-02-24,44.0,Male,WA,Seattle,Beauty,Hair Dryer,2.0,34.74,69.48,Gift Card
+T100586,C1128,2025-01-18,46.0,Male,OH,Cleveland,Beauty,Makeup Kit,5.0,23.65,118.25,Credit Card
+T100856,C1114,2025-02-27,46.0,Male,OH,Cleveland,Books,Children's Book,6.0,22.35,134.1,Debit Card
+T100667,C1047,2025-06-08,68.0,Female,OH,Cleveland,Home & Kitchen,Coffee Maker,5.0,32.43,162.15,Cash
+T100660,C1030,2025-05-24,43.0,Male,WA,Tacoma,Beauty,Face Moisturizer,3.0,20.12,60.36,Debit Card
+T100986,C1323,2025-06-28,70.0,Female,WA,Tacoma,Home & Kitchen,Coffee Maker,1.0,71.15,71.15,Cash
+T100544,C1259,2025-03-18,51.0,Male,NC,Charlotte,Books,Self-Help Guide,8.0,27.8,222.4,Debit Card
+T100009,C1338,2025-09-04,29.0,Female,CA,Los Angeles,Toys,Puzzle Set,8.0,29.36,234.88,Credit Card
+T100010,C1250,2025-07-21,28.0,Male,FL,Orlando,Electronics,Wireless Earbuds,5.0,166.41,832.05,Credit Card
+T100079,C1335,2025-09-22,64.0,Male,IL,Naperville,Books,Cookbook,4.0,26.07,104.28,Credit Card
+T100372,C1090,2025-04-12,42.0,Female,OH,Cleveland,Sports & Outdoors,Camping Tent,2.0,40.61,81.22,PayPal
+T100118,C1140,2025-06-18,46.0,Female,WA,Tacoma,Beauty,Shampoo Set,2.0,63.66,127.32,PayPal
+T100996,C1165,2025-06-19,64.0,Male,FL,Miami,Electronics,Wireless Earbuds,2.0,99.6,199.2,PayPal
+T100234,C1177,2025-09-13,27.0,Female,PA,Philadelphia,Electronics,Bluetooth Speaker,2.0,161.23,322.46,Credit Card
+T100549,C1181,2025-05-13,26.0,Female,IL,Naperville,Electronics,Phone Charger,2.0,99.65,199.3,Credit Card
+T100674,C1213,2025-08-27,43.0,Female,GA,Atlanta,Toys,Building Blocks,1.0,34.16,34.16,Debit Card
+T100289,C1228,2025-02-24,49.0,Female,FL,Tampa,Home & Kitchen,Air Fryer,2.0,53.81,107.62,Debit Card
+T100049,C1048,2025-06-09,46.0,Male,FL,Orlando,Clothing,Winter Jacket,4.0,40.91,163.64,Cash
+T100685,C1233,2025-07-11,61.0,Female,GA,Augusta,Home & Kitchen,Blender,9.5,146.78,1394.41,Debit Card
+T100682,C1198,2025-03-02,46.0,Female,NC,Raleigh,Clothing,Wool Sweater,5.0,21.16,105.8,Cash
+T100932,C1199,2025-08-22,72.0,Male,IL,Naperville,Home & Kitchen,Blender,4.0,23.59,94.36,Credit Card
+T100831,C1148,2025-02-25,64.0,Female,PA,Erie,Home & Kitchen,Cookware Set,3.0,144.65,433.95,Gift Card
+T100638,C1079,2025-09-08,56.0,Female,IL,Chicago,Electronics,Bluetooth Speaker,2.0,76.59,153.18,Debit Card
+T100144,C1261,2025-01-30,27.0,Male,GA,Atlanta,Clothing,T-Shirt Pack,3.0,55.05,165.15,PayPal
+T100799,C1119,2025-08-08,24.0,Female,WA,Tacoma,Electronics,Smartwatch,2.0,129.15,258.3,Credit Card
+T100711,C1254,2025-04-16,55.0,Female,GA,Augusta,Clothing,T-Shirt Pack,2.0,63.84,127.68,Cash
+T100813,C1127,2025-02-08,61.0,Male,GA,Savannah,Books,Mystery Novel,5.0,20.48,102.4,Gift Card
+T100333,C1160,2025-10-27,74.0,Male,OH,Cleveland,Books,Cookbook,2.0,26.01,52.02,Credit Card
+T100112,C1092,2025-03-22,65.0,Female,CA,Los Angeles,Electronics,USB Drive,2.0,80.89,161.78,Credit Card
+T100967,C1262,2025-04-08,35.0,Male,FL,Orlando,Books,Biography,6.0,22.52,135.12,Debit Card
+T100570,C1210,2025-08-20,32.0,Male,NC,Raleigh,Clothing,T-Shirt Pack,4.0,67.78,271.12,Debit Card
+T100360,C1248,2025-01-27,62.0,Female,PA,Erie,Home & Kitchen,Vacuum Cleaner,3.0,152.94,458.82,Gift Card
+T100693,C1244,2025-08-03,53.0,Female,TX,Houston,Books,Mystery Novel,2.0,6.1,12.2,Credit Card
+T100538,C1056,2025-01-15,49.0,Female,GA,Savannah,Beauty,Makeup Kit,2.0,27.03,54.06,Credit Card
+T100338,C1035,2025-06-16,21.0,Female,PA,Philadelphia,Home & Kitchen,Vacuum Cleaner,3.0,114.52,343.56,Debit Card
+T100612,C1068,2025-09-14,22.0,Female,OH,Cleveland,Electronics,Phone Charger,5.0,98.89,494.45,Debit Card
+T100976,C1088,2025-05-29,61.0,Female,PA,Erie,Books,Children's Book,4.0,9.33,37.32,Credit Card
+T100669,C1221,2025-08-21,43.0,Female,GA,Atlanta,Books,Self-Help Guide,4.0,30.38,121.52,Debit Card
+T100618,C1312,2025-03-29,46.0,Male,IL,Springfield,Sports & Outdoors,Camping Tent,4.0,82.02,328.08,Gift Card
+T100351,C1276,2025-09-16,44.0,Male,TX,Houston,Clothing,Denim Jeans,1.0,94.16,94.16,Cash
+T100698,C1143,2025-06-19,41.0,Female,WA,Tacoma,Toys,Building Blocks,6.0,11.72,70.32,Gift Card
+T100493,C1046,2025-02-10,46.0,Female,PA,Pittsburgh,Home & Kitchen,Blender,3.0,104.16,312.48,Credit Card
+T100435,C1261,2025-02-20,27.0,Female,GA,Augusta,Toys,Puzzle Set,7.0,22.04,154.28,PayPal
+T100732,C1208,2025-04-01,33.0,Female,CA,Los Angeles,Home & Kitchen,Coffee Maker,2.0,43.97,87.94,Cash
+T100879,C1026,2025-02-06,40.0,Male,TX,Austin,Sports & Outdoors,Water Bottle,3.0,104.75,314.25,Cash
+T100322,C1081,2025-08-30,42.0,Male,IL,Springfield,Clothing,Denim Jeans,2.0,29.94,59.88,Gift Card
+T100756,C1182,2025-03-18,46.0,Male,PA,Philadelphia,Home & Kitchen,Air Fryer,5.0,98.83,494.15,Credit Card
+T100465,C1017,2025-09-01,25.0,Female,NY,New York City,Electronics,Wireless Earbuds,3.0,127.08,381.24,Credit Card
+T100889,C1322,2025-10-24,53.0,Male,CA,San Francisco,Beauty,Shampoo Set,3.0,20.44,61.32,Debit Card
+T100183,C1111,2025-02-19,62.0,Female,OH,Cincinnati,Home & Kitchen,Vacuum Cleaner,3.0,26.29,78.87,Credit Card
+T100367,C1123,2025-02-26,44.0,Female,NC,Durham,Sports & Outdoors,Dumbbell Set,1.0,121.87,121.87,Debit Card
+T100820,C1030,2025-09-09,43.0,Male,WA,Seattle,Books,Self-Help Guide,5.0,14.26,71.3,Gift Card
+T100342,C1153,2025-03-28,34.0,Male,CA,Sacramento,Clothing,Winter Jacket,2.0,84.61,169.22,Cash
+T100306,C1204,2025-05-31,44.0,Female,IL,Chicago,Home & Kitchen,Cookware Set,3.0,46.15,138.45,Credit Card
+T100217,C1105,2025-10-22,62.0,Female,NC,Durham,Sports & Outdoors,Water Bottle,2.0,130.81,261.62,Debit Card
+T100476,C1165,2025-08-25,64.0,Male,FL,Miami,Clothing,Denim Jeans,4.0,26.9,107.6,Credit Card
+T100037,C1076,2025-04-07,36.0,Male,NC,Raleigh,Books,Mystery Novel,8.0,10.59,84.72,Debit Card
+T100313,C1128,2025-07-23,50.0,Male,OH,Columbus,Electronics,Smartwatch,1.0,204.54500000000002,204.54,Credit Card
+T100606,C1126,2025-08-14,22.0,Male,WA,Tacoma,Electronics,Phone Charger,1.0,78.37,78.37,Debit Card
+T100188,C1035,2025-05-04,21.0,Female,PA,Pittsburgh,Electronics,Smartwatch,2.0,133.6,267.2,Credit Card
+T100555,C1196,2025-05-19,37.0,Male,WA,Seattle,Toys,Puzzle Set,6.0,22.91,137.46,Credit Card
+T100036,C1097,2025-03-16,56.0,Female,WA,Tacoma,Clothing,Winter Jacket,3.0,64.57,193.71,Gift Card
+T100720,C1135,2025-03-28,35.0,Female,WA,Tacoma,Clothing,Winter Jacket,3.0,87.05,261.15,Debit Card
+T100526,C1179,2025-06-23,46.0,Female,OH,Cincinnati,Beauty,Shampoo Set,3.0,28.23,84.69,Debit Card
+T100907,C1226,2025-03-11,64.0,Male,NC,Raleigh,Books,Children's Book,7.0,30.87,216.09,Credit Card
+T100403,C1162,2025-01-10,41.0,Male,OH,Cleveland,Sports & Outdoors,Bicycle Helmet,5.0,95.32,476.6,Credit Card
+T100583,C1249,2025-07-11,20.0,Male,NY,Albany,Electronics,USB Drive,4.0,34.43,137.72,Debit Card
+T100642,C1022,2025-07-24,28.0,Female,IL,Chicago,Electronics,Phone Charger,2.0,175.11,350.22,PayPal
+T100233,C1207,2025-10-17,73.0,Female,PA,Pittsburgh,Beauty,Hair Dryer,4.0,62.39,249.56,Cash
+T100102,C1144,2025-02-23,74.0,Female,WA,Spokane,Home & Kitchen,Blender,2.0,139.07,278.14,Credit Card
+T100437,C1257,2025-03-16,23.0,Male,GA,Atlanta,Books,Children's Book,4.0,8.23,32.92,PayPal
+T100456,C1211,2025-01-15,58.0,Male,GA,Augusta,Clothing,Running Shoes,5.0,57.84,289.2,Debit Card
+T100745,C1058,2025-04-12,60.0,Male,IL,Naperville,Books,Biography,4.0,26.19,104.76,Debit Card
+T100065,C1225,2025-04-20,35.0,Female,PA,Erie,Home & Kitchen,Vacuum Cleaner,2.0,26.88,53.76,Debit Card
+T100461,C1051,2025-02-22,29.0,Female,TX,Houston,Toys,Puzzle Set,3.0,25.33,75.99,Cash
+T100433,C1226,2025-07-12,64.0,Male,NC,Charlotte,Toys,Remote Control Car,4.0,47.45,189.8,Credit Card
+T100163,C1005,2025-09-06,66.0,Female,NY,Buffalo,Books,Self-Help Guide,6.0,20.18,121.08,Credit Card
+T100263,C1157,2025-08-12,49.0,Male,CA,Los Angeles,Beauty,Hair Dryer,4.0,13.14,52.56,Debit Card
+T100231,C1192,2025-02-07,52.0,Female,IL,Naperville,Sports & Outdoors,Dumbbell Set,2.0,97.37,194.74,Credit Card
+T100974,C1183,2025-07-13,57.0,Male,GA,Atlanta,Books,Biography,7.0,21.5,150.5,Credit Card
+T100235,C1026,2025-08-25,40.0,Male,TX,Austin,Electronics,USB Drive,6.0,187.71,1126.26,Credit Card
+T100415,C1327,2025-03-18,20.0,Male,GA,Atlanta,Electronics,Phone Charger,2.0,58.38,116.76,Debit Card
+T100175,C1171,2025-06-16,23.0,Male,TX,Dallas,Electronics,Phone Charger,3.0,124.9,374.7,PayPal
+T100969,C1283,2025-09-25,46.0,Female,NC,Durham,Electronics,Bluetooth Speaker,2.0,143.74,287.48,Credit Card
+T100302,C1078,2025-01-26,50.0,Female,NY,Albany,Beauty,Face Moisturizer,3.0,19.54,58.62,PayPal
+T100071,C1203,2025-03-26,57.0,Female,OH,Cleveland,Home & Kitchen,Blender,4.0,107.76,431.04,Credit Card
+T100168,C1214,2025-05-20,60.0,Female,OH,Cleveland,Clothing,Running Shoes,3.0,31.74,95.22,Gift Card
+T100089,C1141,2025-08-28,30.0,Female,IL,Naperville,Sports & Outdoors,Yoga Mat,4.0,44.97,179.88,Credit Card
+T100117,C1268,2025-02-18,52.0,Male,CA,Los Angeles,Clothing,Winter Jacket,3.0,89.41,268.23,Credit Card
+T100321,C1213,2025-07-13,43.0,Female,GA,Augusta,Beauty,Perfume,1.0,8.8,8.8,PayPal
+T100904,C1061,2025-10-06,60.0,Female,PA,Erie,Books,Cookbook,5.0,28.4,142.0,Credit Card
+T100024,C1062,2025-01-01,38.0,Male,PA,Philadelphia,Toys,Remote Control Car,4.0,15.69,62.76,PayPal
+T100603,C1129,2025-04-11,46.0,Male,NC,Raleigh,Beauty,Perfume,1.0,56.49,56.49,Debit Card
+T100061,C1105,2025-09-19,62.0,Female,NC,Durham,Home & Kitchen,Vacuum Cleaner,2.0,28.38,56.76,Debit Card
+T100906,C1012,2025-02-12,59.0,Female,GA,Augusta,Books,Self-Help Guide,9.5,12.9,122.55,PayPal
+T100186,C1147,2025-03-04,31.0,Male,FL,Orlando,Home & Kitchen,Coffee Maker,2.0,102.3,204.6,Debit Card
+T100873,C1011,2025-06-25,73.0,Male,CA,Los Angeles,Clothing,Wool Sweater,4.0,26.96,107.84,PayPal
+T100401,C1313,2025-04-10,34.0,Female,NC,Charlotte,Clothing,Wool Sweater,4.0,42.5,170.0,PayPal
+T100232,C1199,2025-04-20,72.0,Male,IL,Chicago,Home & Kitchen,Coffee Maker,2.0,81.75,163.5,Debit Card
+T100755,C1137,2025-02-27,19.0,Male,NC,Charlotte,Books,Children's Book,6.0,9.59,57.54,Credit Card
+T100850,C1086,2025-05-12,46.0,Male,TX,Austin,Toys,Board Game,7.0,50.32,352.24,PayPal
+T100072,C1111,2025-04-25,62.0,Female,OH,Columbus,Books,Biography,4.0,24.41,97.64,Debit Card
+T100507,C1293,2025-01-24,36.0,Female,NC,Charlotte,Books,Biography,5.0,10.16,50.8,Credit Card
+T100270,C1273,2025-10-23,72.0,Female,NY,Buffalo,Beauty,Perfume,3.0,43.39,130.17,PayPal
+T100111,C1141,2025-07-26,30.0,Female,IL,Naperville,Home & Kitchen,Coffee Maker,6.0,66.91,401.46,Credit Card
+T100499,C1076,2025-03-21,36.0,Male,NC,Durham,Sports & Outdoors,Bicycle Helmet,5.0,83.16,415.8,Cash
+T100840,C1208,2025-08-18,33.0,Female,CA,Los Angeles,Books,Self-Help Guide,4.0,14.01,56.04,Debit Card
+T100522,C1009,2025-10-02,23.0,Male,FL,Miami,Home & Kitchen,Blender,6.0,125.27,751.62,PayPal
+T100226,C1028,2025-06-09,49.0,Female,OH,Cleveland,Electronics,Wireless Earbuds,2.0,29.97,59.94,PayPal
+T100329,C1002,2025-06-27,46.0,Female,NC,Raleigh,Clothing,Running Shoes,4.0,30.02,120.08,Credit Card
+T100463,C1146,2025-03-09,19.0,Female,NY,Buffalo,Books,Children's Book,2.0,6.72,13.44,Gift Card
+T100582,C1249,2025-05-07,20.0,Male,NY,Buffalo,Electronics,Wireless Earbuds,1.0,109.66,109.66,Gift Card
+T100824,C1017,2025-09-17,25.0,Female,NY,Albany,Books,Children's Book,6.0,204.54500000000002,1227.27,Debit Card
+T100195,C1335,2025-02-20,64.0,Male,IL,Chicago,Books,Biography,6.0,13.37,80.22,Cash
+T100336,C1229,2025-01-11,46.0,Female,PA,Pittsburgh,Clothing,T-Shirt Pack,3.0,88.02,264.06,Credit Card
+T100365,C1040,2025-10-10,27.0,Male,GA,Savannah,Clothing,Wool Sweater,6.0,40.92,245.52,Gift Card
+T100484,C1071,2025-01-18,28.0,Male,IL,Springfield,Books,Self-Help Guide,3.0,26.01,78.03,Debit Card
+T100028,C1024,2025-08-12,62.0,Female,GA,Savannah,Clothing,Wool Sweater,3.0,29.18,87.54,Cash
+T100800,C1072,2025-02-09,44.0,Female,NC,Raleigh,Electronics,Phone Charger,2.0,157.75,315.5,Credit Card
+T100609,C1200,2025-01-14,46.0,Male,OH,Cleveland,Books,Biography,7.0,21.15,148.05,Credit Card
+T100896,C1111,2025-07-03,62.0,Female,OH,Cincinnati,Home & Kitchen,Vacuum Cleaner,4.0,132.67,530.68,Gift Card
+T100714,C1210,2025-07-31,32.0,Male,NC,Charlotte,Clothing,Running Shoes,2.0,59.59,119.18,Cash
+T100137,C1166,2025-01-25,36.0,Female,CA,Los Angeles,Home & Kitchen,Blender,2.0,118.53,237.06,Credit Card
+T100574,C1081,2025-07-07,42.0,Male,IL,Springfield,Beauty,Shampoo Set,2.0,27.37,54.74,Cash
+T100791,C1233,2025-01-23,61.0,Female,GA,Atlanta,Home & Kitchen,Coffee Maker,3.0,119.39,358.17,Cash
+T100477,C1230,2025-01-10,44.0,Female,TX,Austin,Home & Kitchen,Vacuum Cleaner,1.0,138.45,138.45,Debit Card
+T100520,C1163,2025-02-15,41.0,Male,IL,Chicago,Clothing,Winter Jacket,2.0,54.53,109.06,Gift Card
+T100393,C1121,2025-07-11,56.0,Female,FL,Miami,Books,Cookbook,5.0,29.8,149.0,Credit Card
+T100382,C1279,2025-06-17,22.0,Female,NY,Buffalo,Books,Self-Help Guide,8.0,10.47,83.76,Debit Card
+T100221,C1267,2025-03-24,37.0,Female,TX,Houston,Beauty,Face Moisturizer,6.0,27.7,166.2,Credit Card
+T100013,C1210,2025-01-11,32.0,Male,NC,Charlotte,Clothing,Denim Jeans,5.0,69.21,346.05,Debit Card
+T100937,C1151,2025-09-15,34.0,Female,OH,Cincinnati,Beauty,Makeup Kit,9.5,34.8,330.6,Credit Card
+T100495,C1147,2025-02-17,31.0,Male,FL,Tampa,Beauty,Hair Dryer,3.0,33.64,100.92,PayPal
+T100673,C1035,2025-01-02,21.0,Female,PA,Erie,Books,Mystery Novel,7.0,20.32,142.24,PayPal
+T100539,C1140,2025-06-02,74.0,Female,WA,Tacoma,Books,Self-Help Guide,5.0,22.74,113.7,Debit Card
+T100328,C1339,2025-08-20,72.0,Female,FL,Tampa,Toys,Action Figure,6.0,13.04,78.24,Debit Card
+T100012,C1062,2025-09-12,38.0,Male,PA,Erie,Sports & Outdoors,Yoga Mat,3.0,49.73,149.19,Credit Card
+T100979,C1214,2025-04-24,60.0,Female,OH,Cincinnati,Toys,Board Game,5.0,20.07,100.35,Debit Card
+T100964,C1187,2025-01-02,39.0,Male,GA,Atlanta,Sports & Outdoors,Bicycle Helmet,4.0,78.36,313.44,PayPal
+T100206,C1327,2025-09-18,20.0,Male,GA,Augusta,Sports & Outdoors,Yoga Mat,3.0,128.07,384.21,Credit Card
+T100103,C1038,2025-01-07,33.0,Female,IL,Chicago,Home & Kitchen,Coffee Maker,1.0,29.09,29.09,Credit Card
+T100852,C1020,2025-10-13,46.0,Male,GA,Savannah,Sports & Outdoors,Dumbbell Set,2.0,128.03,256.06,Debit Card
+T100309,C1013,2025-06-05,61.0,Female,FL,Tampa,Toys,Building Blocks,4.0,18.17,72.68,Debit Card
+T100536,C1283,2025-07-14,45.0,Female,NC,Raleigh,Sports & Outdoors,Yoga Mat,3.0,133.28,399.84,PayPal
+T100222,C1275,2025-01-20,45.0,Male,WA,Seattle,Electronics,Phone Charger,2.0,40.47,80.94,Credit Card
+T100153,C1179,2025-01-28,46.0,Female,OH,Cincinnati,Sports & Outdoors,Camping Tent,3.0,87.81,263.43,Credit Card
+T100180,C1120,2025-03-19,43.0,Male,NC,Raleigh,Beauty,Face Moisturizer,1.0,15.71,15.71,Debit Card
+T100182,C1197,2025-07-23,24.0,Male,GA,Savannah,Clothing,Denim Jeans,3.0,76.63,229.89,Credit Card
+T100930,C1183,2025-06-30,57.0,Female,GA,Augusta,Electronics,Wireless Earbuds,2.0,160.12,320.24,Credit Card
+T100331,C1337,2025-07-30,36.0,Male,CA,Sacramento,Home & Kitchen,Coffee Maker,3.0,111.56,334.68,Debit Card
+T100497,C1311,2025-06-02,56.0,Female,GA,Savannah,Clothing,Winter Jacket,7.0,40.14,280.98,Debit Card
+T100316,C1237,2025-05-12,46.0,Male,WA,Spokane,Home & Kitchen,Coffee Maker,4.0,95.86,383.44,Debit Card
+T100141,C1324,2025-09-07,73.0,Male,CA,Los Angeles,Electronics,Phone Charger,3.0,76.23,228.69,Debit Card
+T100691,C1280,2025-01-04,33.0,Female,GA,Savannah,Home & Kitchen,Blender,3.0,24.95,74.85,Credit Card
+T100814,C1185,2025-02-04,43.0,Male,PA,Erie,Home & Kitchen,Vacuum Cleaner,2.0,89.57,179.14,PayPal
+T100742,C1337,2025-05-27,36.0,Male,CA,San Francisco,Home & Kitchen,Blender,4.0,34.32,137.28,PayPal
+T100210,C1113,2025-02-27,44.0,Female,GA,Atlanta,Clothing,Winter Jacket,2.0,30.44,60.88,Debit Card
+T100142,C1106,2025-06-05,62.0,Female,NC,Charlotte,Clothing,Winter Jacket,4.0,70.18,280.72,Credit Card
+T100514,C1127,2025-04-08,61.0,Male,GA,Savannah,Electronics,USB Drive,3.0,196.77,590.31,Debit Card
+T100362,C1236,2025-06-16,55.0,Female,TX,Austin,Beauty,Shampoo Set,3.0,20.65,61.95,PayPal
+T100004,C1089,2025-10-21,46.0,Male,NY,Albany,Electronics,Bluetooth Speaker,2.0,46.76,93.52,Debit Card
+T100044,C1180,2025-02-18,71.0,Male,NC,Durham,Beauty,Perfume,5.0,22.83,114.15,Debit Card
+T100281,C1019,2025-07-19,43.0,Female,NC,Raleigh,Electronics,Bluetooth Speaker,2.0,160.49,320.98,Debit Card
+T100202,C1252,2025-04-05,28.0,Female,PA,Pittsburgh,Beauty,Face Moisturizer,4.0,16.05,64.2,Credit Card
+T100614,C1036,2025-07-01,66.0,Female,IL,Naperville,Books,Children's Book,3.0,14.83,44.49,Debit Card
+T100358,C1062,2025-02-06,38.0,Male,PA,Philadelphia,Sports & Outdoors,Camping Tent,9.5,106.74,1014.03,Gift Card
+T100547,C1090,2025-03-08,42.0,Female,OH,Cleveland,Home & Kitchen,Blender,1.0,107.63,107.63,PayPal
+T100371,C1261,2025-05-17,27.0,Male,GA,Savannah,Electronics,Bluetooth Speaker,3.0,84.9,254.7,Gift Card
+T100630,C1090,2025-07-19,42.0,Female,OH,Cleveland,Electronics,Smartwatch,1.0,91.13,91.13,Debit Card
+T100728,C1207,2025-04-15,73.0,Female,PA,Erie,Books,Biography,6.0,28.36,170.16,Debit Card
+T100237,C1037,2025-10-25,65.0,Male,GA,Savannah,Beauty,Face Moisturizer,7.0,12.92,90.44,Credit Card
+T100723,C1229,2025-04-07,28.0,Female,PA,Pittsburgh,Electronics,Wireless Earbuds,3.0,154.47,463.41,Credit Card
+T100273,C1074,2025-09-03,46.0,Male,FL,Orlando,Beauty,Shampoo Set,3.0,22.67,68.01,Cash
+T100716,C1212,2025-07-11,46.0,Male,PA,Pittsburgh,Beauty,Shampoo Set,3.0,55.12,165.36,Debit Card
+T100194,C1124,2025-03-04,46.0,Male,FL,Tampa,Sports & Outdoors,Dumbbell Set,4.0,84.08,336.32,Credit Card
+T100513,C1198,2025-06-06,37.0,Female,NC,Raleigh,Electronics,Bluetooth Speaker,1.0,108.44,108.44,Credit Card
+T100811,C1166,2025-05-22,46.0,Female,CA,San Francisco,Sports & Outdoors,Yoga Mat,3.0,64.82,194.46,Gift Card
+T100945,C1306,2025-03-24,35.0,Female,OH,Cincinnati,Clothing,Wool Sweater,3.0,45.45,136.35,Credit Card
+T100209,C1086,2025-05-16,23.0,Female,TX,Dallas,Sports & Outdoors,Yoga Mat,2.0,92.95,185.9,Credit Card
+T100162,C1010,2025-08-13,48.0,Male,IL,Springfield,Sports & Outdoors,Yoga Mat,3.0,78.12,234.36,Cash
+T100702,C1299,2025-10-15,19.0,Female,FL,Tampa,Sports & Outdoors,Dumbbell Set,2.0,34.86,69.72,Debit Card
+T100602,C1216,2025-03-03,22.0,Male,NY,Buffalo,Electronics,Smartwatch,3.0,204.54500000000002,613.64,Cash
+T100087,C1033,2025-10-08,49.0,Female,PA,Pittsburgh,Clothing,T-Shirt Pack,4.0,93.4,373.6,Credit Card
+T100942,C1239,2025-10-16,53.0,Male,NC,Raleigh,Home & Kitchen,Cookware Set,4.0,120.75,483.0,Debit Card
+T100639,C1076,2025-02-27,36.0,Male,NC,Durham,Home & Kitchen,Blender,3.0,124.82,374.46,PayPal
+T100190,C1111,2025-01-08,62.0,Female,OH,Cleveland,Home & Kitchen,Air Fryer,1.0,151.79,151.79,Cash
+T100178,C1246,2025-09-22,61.0,Female,NY,Albany,Electronics,Phone Charger,6.0,180.52,1083.12,Credit Card
+T100595,C1277,2025-07-07,62.0,Female,OH,Columbus,Books,Cookbook,6.0,10.17,61.02,Gift Card
+T100392,C1023,2025-10-08,70.0,Male,FL,Orlando,Beauty,Face Moisturizer,1.0,13.63,13.63,Credit Card
+T100910,C1001,2025-04-20,62.0,Female,NY,Albany,Books,Children's Book,4.0,9.34,37.36,Debit Card
+T100961,C1298,2025-01-10,34.0,Female,IL,Springfield,Electronics,Bluetooth Speaker,2.0,25.31,50.62,Debit Card
+T100729,C1008,2025-07-07,46.0,Male,WA,Tacoma,Clothing,Wool Sweater,2.0,40.25,80.5,PayPal
+T100511,C1287,2025-06-13,50.0,Female,TX,Dallas,Home & Kitchen,Cookware Set,1.0,122.5,122.5,Credit Card
+T100646,C1095,2025-10-19,34.0,Female,IL,Naperville,Sports & Outdoors,Camping Tent,1.0,77.22,77.22,Debit Card
+T100439,C1124,2025-02-24,66.0,Male,FL,Tampa,Beauty,Perfume,1.0,49.26,49.26,Gift Card
+T100471,C1089,2025-10-15,65.0,Male,NY,New York City,Home & Kitchen,Cookware Set,2.0,46.67,93.34,Credit Card
+T100398,C1320,2025-06-08,36.0,Male,WA,Tacoma,Toys,Remote Control Car,3.0,19.35,58.05,Credit Card
+T100616,C1149,2025-05-12,21.0,Male,PA,Pittsburgh,Electronics,Smartwatch,2.0,204.54500000000002,409.09,Credit Card
+T100035,C1223,2025-02-04,29.0,Male,IL,Chicago,Electronics,Smartwatch,4.0,26.46,105.84,Cash
+T100734,C1099,2025-05-27,25.0,Female,IL,Springfield,Home & Kitchen,Coffee Maker,3.0,40.46,121.38,Cash
+T100043,C1324,2025-04-22,73.0,Male,CA,San Francisco,Home & Kitchen,Blender,3.0,111.85,335.55,Credit Card
+T100261,C1224,2025-07-22,59.0,Female,NC,Charlotte,Beauty,Perfume,8.0,49.85,398.8,Debit Card
+T100944,C1188,2025-04-10,46.0,Female,TX,Austin,Sports & Outdoors,Water Bottle,5.0,60.99,304.95,Credit Card
+T100429,C1252,2025-07-27,28.0,Female,PA,Pittsburgh,Beauty,Face Moisturizer,3.0,15.41,46.23,PayPal
+T100228,C1068,2025-02-26,22.0,Female,OH,Cincinnati,Books,Self-Help Guide,4.0,19.17,76.68,Debit Card
+T100005,C1078,2025-01-09,50.0,Female,NY,New York City,Home & Kitchen,Blender,1.0,140.79,140.79,Debit Card
+T100848,C1130,2025-03-18,50.0,Male,FL,Miami,Beauty,Perfume,5.0,21.44,107.2,Credit Card
+T100318,C1326,2025-06-11,31.0,Female,NC,Durham,Home & Kitchen,Cookware Set,4.0,86.02,344.08,PayPal
+T100917,C1293,2025-04-16,36.0,Female,NC,Durham,Sports & Outdoors,Yoga Mat,1.0,76.22,76.22,Cash
+T100312,C1256,2025-04-07,56.0,Female,OH,Cleveland,Beauty,Hair Dryer,1.0,43.26,43.26,PayPal
+T100075,C1183,2025-05-21,57.0,Male,GA,Atlanta,Beauty,Hair Dryer,8.0,44.65,357.2,Debit Card
+T100173,C1335,2025-09-03,64.0,Male,IL,Naperville,Home & Kitchen,Vacuum Cleaner,4.0,24.5,98.0,PayPal
+T100876,C1187,2025-03-29,39.0,Male,GA,Savannah,Home & Kitchen,Cookware Set,4.0,52.07,208.28,Credit Card
+T100051,C1226,2025-04-26,46.0,Female,NC,Raleigh,Sports & Outdoors,Dumbbell Set,3.0,130.63,391.89,PayPal
+T100551,C1276,2025-02-20,44.0,Male,TX,Austin,Electronics,Smartwatch,4.0,204.54500000000002,818.18,Credit Card
+T100854,C1118,2025-06-05,31.0,Male,GA,Augusta,Books,Mystery Novel,5.0,30.88,154.4,Debit Card
+T100958,C1002,2025-10-25,55.0,Female,NC,Charlotte,Clothing,Wool Sweater,4.0,72.07,288.28,Credit Card
+T100220,C1044,2025-10-11,21.0,Male,GA,Savannah,Electronics,Wireless Earbuds,3.0,50.85,152.55,Cash
+T100508,C1321,2025-06-22,24.0,Male,CA,San Francisco,Sports & Outdoors,Bicycle Helmet,5.0,76.22,381.1,PayPal
+T100608,C1290,2025-06-13,64.0,Male,WA,Seattle,Home & Kitchen,Cookware Set,3.0,135.27,405.81,Debit Card
+T100387,C1101,2025-03-16,29.0,Female,NY,New York City,Home & Kitchen,Blender,3.0,120.3,360.9,Credit Card
+T100093,C1023,2025-09-22,70.0,Male,FL,Orlando,Home & Kitchen,Coffee Maker,3.0,41.49,124.47,PayPal
+T100148,C1064,2025-06-28,41.0,Female,TX,Houston,Beauty,Perfume,4.0,53.16,212.64,Credit Card
+T100482,C1221,2025-03-15,43.0,Female,GA,Atlanta,Beauty,Perfume,2.0,58.44,116.88,Gift Card
+T100887,C1304,2025-08-25,48.0,Female,NC,Raleigh,Home & Kitchen,Coffee Maker,3.0,121.5,364.5,Debit Card
+T100249,C1192,2025-08-07,52.0,Female,IL,Chicago,Books,Cookbook,4.0,9.65,38.6,Credit Card
+T100340,C1060,2025-02-21,70.0,Female,PA,Pittsburgh,Beauty,Shampoo Set,3.0,26.58,79.74,Credit Card
+T100654,C1207,2025-09-14,46.0,Female,PA,Erie,Books,Mystery Novel,5.0,15.08,75.4,Cash
+T100200,C1332,2025-06-28,35.0,Male,IL,Chicago,Books,Children's Book,5.0,12.37,61.85,Credit Card
+T100091,C1019,2025-02-26,43.0,Female,NC,Durham,Electronics,Phone Charger,4.0,204.54500000000002,818.18,Credit Card
+T100540,C1326,2025-01-10,31.0,Female,NC,Durham,Sports & Outdoors,Bicycle Helmet,5.0,103.43,517.15,Credit Card
+T100584,C1035,2025-02-21,21.0,Female,PA,Erie,Beauty,Hair Dryer,2.0,49.68,99.36,Credit Card
+T100442,C1264,2025-04-01,74.0,Female,FL,Orlando,Books,Children's Book,4.0,19.61,78.44,PayPal
+T100875,C1177,2025-06-17,27.0,Female,PA,Erie,Electronics,Bluetooth Speaker,4.0,60.73,242.92,Credit Card
+T100280,C1294,2025-02-09,49.0,Male,PA,Erie,Clothing,Running Shoes,3.0,91.72,275.16,Credit Card
+T100410,C1172,2025-08-09,46.0,Male,CA,San Francisco,Toys,Puzzle Set,6.0,15.31,91.86,Debit Card
+T100649,C1098,2025-02-07,54.0,Female,GA,Augusta,Toys,Remote Control Car,3.0,39.39,118.17,Gift Card
+T100568,C1121,2025-02-23,56.0,Female,FL,Orlando,Books,Children's Book,2.0,24.69,49.38,PayPal
+T100753,C1003,2025-04-26,43.0,Male,NC,Durham,Sports & Outdoors,Bicycle Helmet,4.0,96.76,387.04,PayPal
+T100965,C1090,2025-09-22,42.0,Female,OH,Columbus,Electronics,Bluetooth Speaker,4.0,113.4,453.6,Credit Card
+T100335,C1280,2025-10-11,33.0,Female,GA,Augusta,Books,Cookbook,4.0,10.96,43.84,Cash
+T100908,C1108,2025-04-02,44.0,Female,WA,Seattle,Beauty,Hair Dryer,3.0,20.58,61.74,PayPal
+T100783,C1156,2025-04-26,25.0,Male,FL,Miami,Sports & Outdoors,Dumbbell Set,5.0,114.85,574.25,Credit Card
+T100962,C1003,2025-10-16,43.0,Female,NC,Raleigh,Electronics,USB Drive,3.0,148.21,444.63,Credit Card
+T100506,C1199,2025-09-25,72.0,Male,IL,Springfield,Books,Cookbook,5.0,12.41,62.05,Credit Card
+T100781,C1029,2025-07-30,43.0,Female,CA,Los Angeles,Toys,Board Game,5.0,30.65,153.25,Debit Card
+T100788,C1273,2025-01-18,72.0,Female,NY,New York City,Electronics,Bluetooth Speaker,1.0,103.71,103.71,Credit Card
+T100092,C1020,2025-07-31,46.0,Male,GA,Atlanta,Electronics,Wireless Earbuds,6.0,186.31,1117.86,Debit Card
+T100592,C1036,2025-06-20,66.0,Female,IL,Chicago,Toys,Puzzle Set,6.0,204.54500000000002,1227.27,Credit Card
+T100771,C1150,2025-02-12,66.0,Male,OH,Columbus,Toys,Remote Control Car,5.0,204.54500000000002,1022.73,PayPal
+T100767,C1151,2025-03-20,34.0,Female,OH,Cincinnati,Electronics,Smartwatch,1.0,148.3,148.3,Credit Card
+T100898,C1095,2025-09-27,34.0,Female,IL,Chicago,Home & Kitchen,Cookware Set,4.0,80.42,321.68,Cash
+T100999,C1205,2025-08-29,33.0,Female,PA,Pittsburgh,Electronics,Bluetooth Speaker,5.0,124.41,622.05,PayPal
+T100575,C1237,2025-08-05,42.0,Male,WA,Seattle,Clothing,Denim Jeans,2.0,71.67,143.34,Gift Card
+T100573,C1146,2025-05-30,19.0,Female,NY,New York City,Clothing,T-Shirt Pack,3.0,87.14,261.42,Gift Card
+T100278,C1254,2025-05-15,55.0,Male,GA,Atlanta,Toys,Building Blocks,3.0,32.98,98.94,PayPal
+T100279,C1137,2025-04-07,19.0,Male,NC,Durham,Electronics,Wireless Earbuds,2.0,61.2,122.4,Credit Card
+T100337,C1045,2025-09-26,73.0,Male,FL,Tampa,Home & Kitchen,Air Fryer,6.0,66.4,398.4,Credit Card
+T100227,C1148,2025-02-12,64.0,Female,PA,Pittsburgh,Books,Mystery Novel,3.0,8.65,25.95,PayPal
+T100008,C1277,2025-05-18,62.0,Male,OH,Columbus,Sports & Outdoors,Yoga Mat,4.0,42.93,171.72,PayPal
+T100085,C1144,2025-03-17,74.0,Female,WA,Tacoma,Beauty,Shampoo Set,5.0,36.8,184.0,Credit Card
+T100777,C1091,2025-05-29,63.0,Male,TX,Dallas,Home & Kitchen,Vacuum Cleaner,1.0,39.72,39.72,Credit Card
+T100759,C1335,2025-06-14,64.0,Male,IL,Chicago,Electronics,Wireless Earbuds,4.0,96.15,384.6,Cash
+T100096,C1112,2025-10-06,49.0,Female,GA,Augusta,Home & Kitchen,Coffee Maker,4.0,136.16,544.64,Debit Card
+T100341,C1186,2025-03-02,27.0,Male,WA,Seattle,Clothing,Winter Jacket,4.0,18.12,72.48,Gift Card
+T100121,C1308,2025-08-23,35.0,Male,OH,Columbus,Sports & Outdoors,Bicycle Helmet,3.0,103.34,310.02,PayPal
+T100156,C1017,2025-06-06,25.0,Female,NY,Albany,Toys,Board Game,4.0,33.96,135.84,Gift Card
+T100780,C1196,2025-07-11,37.0,Male,WA,Spokane,Books,Self-Help Guide,1.0,26.76,26.76,Gift Card
+T100670,C1211,2025-05-31,58.0,Male,GA,Atlanta,Books,Mystery Novel,2.0,30.49,60.98,Cash
+T100706,C1137,2025-09-20,19.0,Male,NC,Raleigh,Beauty,Face Moisturizer,2.0,8.93,17.86,PayPal
+T100633,C1244,2025-01-14,53.0,Female,TX,Dallas,Toys,Board Game,5.0,35.81,179.05,Credit Card
+T100470,C1116,2025-03-15,20.0,Female,GA,Atlanta,Home & Kitchen,Air Fryer,2.0,20.76,41.52,PayPal
+T100557,C1119,2025-04-16,24.0,Female,WA,Seattle,Beauty,Perfume,7.0,49.88,349.16,Debit Card
+T100293,C1253,2025-05-12,36.0,Female,OH,Cleveland,Home & Kitchen,Vacuum Cleaner,3.0,50.7,152.1,PayPal
+T100851,C1257,2025-01-06,23.0,Male,GA,Savannah,Electronics,Bluetooth Speaker,3.0,177.52,532.56,Credit Card
+T100774,C1009,2025-05-12,23.0,Male,FL,Miami,Clothing,Running Shoes,2.0,82.98,165.96,Debit Card
+T100164,C1001,2025-02-19,62.0,Female,NY,Buffalo,Clothing,Running Shoes,5.0,51.09,255.45,Credit Card
+T100775,C1155,2025-10-13,55.0,Male,FL,Tampa,Clothing,Wool Sweater,4.0,43.88,175.52,Cash
+T100282,C1023,2025-07-15,70.0,Male,FL,Orlando,Home & Kitchen,Vacuum Cleaner,2.0,93.06,186.12,Debit Card
+T100364,C1075,2025-08-26,45.0,Male,NY,Buffalo,Toys,Board Game,6.0,31.44,188.64,Credit Card
+T100310,C1070,2025-04-28,63.0,Male,WA,Seattle,Beauty,Makeup Kit,4.0,47.22,188.88,Credit Card
+T100510,C1229,2025-01-25,28.0,Female,PA,Erie,Clothing,T-Shirt Pack,3.0,79.27,237.81,Credit Card
+T100179,C1321,2025-09-10,24.0,Male,CA,San Francisco,Sports & Outdoors,Yoga Mat,2.0,138.85,277.7,PayPal
+T100069,C1244,2025-05-17,53.0,Female,TX,Austin,Toys,Building Blocks,5.0,30.04,150.2,Gift Card
+T100973,C1000,2025-08-28,23.0,Female,NY,New York City,Books,Biography,8.0,29.92,239.36,PayPal
+T100933,C1211,2025-09-19,58.0,Male,GA,Savannah,Home & Kitchen,Blender,2.0,27.46,54.92,Credit Card
+T100712,C1074,2025-10-08,46.0,Male,FL,Miami,Beauty,Shampoo Set,1.0,15.88,15.88,PayPal
+T100988,C1205,2025-08-10,33.0,Female,PA,Philadelphia,Beauty,Shampoo Set,2.0,30.24,60.48,Debit Card
+T100058,C1147,2025-10-07,31.0,Male,FL,Orlando,Sports & Outdoors,Yoga Mat,2.0,60.22,120.44,Credit Card
+T100921,C1303,2025-10-04,69.0,Female,NC,Raleigh,Home & Kitchen,Vacuum Cleaner,2.0,67.7,135.4,Cash
+T100363,C1115,2025-02-02,50.0,Female,NY,Albany,Books,Biography,5.0,24.07,120.35,Debit Card
+T100878,C1220,2025-07-03,25.0,Male,WA,Tacoma,Clothing,Wool Sweater,2.0,49.67,99.34,Credit Card
+T100265,C1273,2025-08-31,72.0,Female,NY,Buffalo,Beauty,Perfume,8.0,27.21,217.68,Cash
+T100797,C1002,2025-09-25,55.0,Female,NC,Durham,Beauty,Hair Dryer,5.0,55.03,275.15,Debit Card
+T100829,C1310,2025-01-20,55.0,Female,IL,Naperville,Toys,Building Blocks,4.0,19.44,77.76,PayPal
+T100380,C1027,2025-05-16,64.0,Male,OH,Cleveland,Clothing,T-Shirt Pack,2.0,89.99,179.98,Cash
+T100604,C1138,2025-07-21,37.0,Female,FL,Miami,Clothing,Winter Jacket,2.0,47.67,95.34,Credit Card
+T100709,C1059,2025-08-24,56.0,Female,NC,Charlotte,Toys,Building Blocks,6.0,24.19,145.14,PayPal
+T100794,C1056,2025-04-10,49.0,Female,GA,Atlanta,Beauty,Face Moisturizer,2.0,204.54500000000002,409.09,Cash
+T100757,C1069,2025-04-25,44.0,Female,CA,Los Angeles,Books,Cookbook,3.0,23.35,70.05,Gift Card
+T100147,C1015,2025-06-27,62.0,Male,GA,Augusta,Electronics,Smartwatch,2.0,172.43,344.86,Credit Card
+T100251,C1159,2025-05-13,62.0,Female,NY,New York City,Toys,Building Blocks,5.0,48.86,244.3,Credit Card
+T100671,C1101,2025-07-26,29.0,Female,NY,Buffalo,Beauty,Perfume,5.0,60.4,302.0,Debit Card
+T100905,C1232,2025-02-02,19.0,Male,NY,New York City,Electronics,Bluetooth Speaker,2.0,159.68,319.36,Credit Card
+T100212,C1058,2025-04-01,60.0,Female,IL,Naperville,Electronics,Bluetooth Speaker,9.5,149.7,1422.15,Credit Card
+T100440,C1176,2025-07-18,46.0,Male,GA,Atlanta,Books,Children's Book,6.0,27.18,163.08,Cash
+T100915,C1296,2025-07-13,66.0,Male,GA,Atlanta,Home & Kitchen,Air Fryer,4.0,98.49,393.96,Credit Card
+T100330,C1219,2025-10-18,69.0,Male,NY,Albany,Books,Cookbook,5.0,12.38,61.9,Credit Card
+T100810,C1239,2025-10-17,53.0,Male,NC,Charlotte,Electronics,Phone Charger,4.0,122.4,489.6,PayPal
+T100276,C1257,2025-06-15,23.0,Male,GA,Atlanta,Clothing,Denim Jeans,6.0,68.48,410.88,Credit Card
+T100816,C1116,2025-02-09,46.0,Female,GA,Savannah,Home & Kitchen,Cookware Set,1.0,140.49,140.49,Debit Card
+T100692,C1093,2025-04-14,40.0,Female,TX,Austin,Home & Kitchen,Coffee Maker,2.0,86.91,173.82,Debit Card
+T100718,C1239,2025-07-28,53.0,Male,NC,Charlotte,Beauty,Hair Dryer,4.0,9.84,39.36,PayPal
+T100448,C1149,2025-05-24,21.0,Male,PA,Philadelphia,Home & Kitchen,Coffee Maker,4.0,63.62,254.48,Gift Card
+T100385,C1263,2025-01-31,70.0,Male,NC,Raleigh,Home & Kitchen,Vacuum Cleaner,1.0,112.18,112.18,Credit Card
+T100860,C1066,2025-06-25,46.0,Female,NC,Durham,Home & Kitchen,Air Fryer,5.0,72.96,364.8,Debit Card
+T100524,C1262,2025-03-27,35.0,Male,FL,Miami,Electronics,USB Drive,4.0,77.84,311.36,Credit Card
+T100303,C1114,2025-09-05,46.0,Male,OH,Columbus,Sports & Outdoors,Water Bottle,1.0,35.26,35.26,Gift Card
+T100487,C1235,2025-07-31,59.0,Male,NY,Buffalo,Beauty,Shampoo Set,3.0,35.86,107.58,Debit Card
+T100766,C1220,2025-09-04,25.0,Male,WA,Seattle,Clothing,Winter Jacket,4.0,66.17,264.68,Debit Card
+T100864,C1075,2025-01-10,45.0,Male,NY,Buffalo,Home & Kitchen,Vacuum Cleaner,1.0,45.18,45.18,Credit Card
+T100019,C1043,2025-04-01,38.0,Male,GA,Atlanta,Toys,Remote Control Car,3.0,38.67,116.01,Cash
+T100324,C1229,2025-07-01,28.0,Female,PA,Pittsburgh,Clothing,Winter Jacket,3.0,45.51,136.53,PayPal
+T100260,C1336,2025-06-11,72.0,Female,FL,Miami,Electronics,Bluetooth Speaker,3.0,29.83,89.49,Credit Card
+T100928,C1093,2025-05-02,40.0,Female,TX,Austin,Toys,Building Blocks,3.0,44.97,134.91,Debit Card
+T100409,C1009,2025-04-21,23.0,Male,FL,Tampa,Sports & Outdoors,Water Bottle,5.0,133.68,668.4,Credit Card
+T100400,C1045,2025-04-14,46.0,Male,FL,Orlando,Toys,Building Blocks,3.0,27.12,81.36,Credit Card
+T100054,C1332,2025-03-13,35.0,Male,IL,Springfield,Sports & Outdoors,Yoga Mat,1.0,84.02,84.02,Debit Card
+T100925,C1160,2025-03-23,74.0,Male,OH,Cincinnati,Home & Kitchen,Vacuum Cleaner,3.0,132.1,396.3,Credit Card
+T100150,C1042,2025-01-30,57.0,Female,CA,Los Angeles,Books,Biography,5.0,29.41,147.05,Debit Card
+T100722,C1284,2025-10-26,43.0,Female,OH,Cincinnati,Sports & Outdoors,Camping Tent,6.0,16.26,97.56,Debit Card
+T100914,C1318,2025-08-28,71.0,Female,GA,Augusta,Home & Kitchen,Air Fryer,3.0,94.02,282.06,Credit Card
+T100743,C1028,2025-01-31,49.0,Female,OH,Columbus,Clothing,T-Shirt Pack,2.0,89.72,179.44,Credit Card
+T100730,C1016,2025-05-16,47.0,Female,PA,Erie,Home & Kitchen,Cookware Set,1.0,71.49,71.49,Debit Card
+T100106,C1163,2025-07-28,41.0,Male,IL,Springfield,Clothing,Winter Jacket,5.0,66.52,332.6,Credit Card
+T100751,C1188,2025-08-13,31.0,Female,TX,Houston,Home & Kitchen,Blender,3.0,44.09,132.27,Gift Card
+T100954,C1177,2025-08-07,27.0,Female,PA,Erie,Beauty,Perfume,4.0,54.73,218.92,Debit Card
+T100533,C1112,2025-07-21,49.0,Female,GA,Augusta,Electronics,Smartwatch,3.0,88.33,264.99,PayPal
+T100846,C1185,2025-01-26,43.0,Male,PA,Philadelphia,Books,Biography,5.0,7.22,36.1,Debit Card
+T100082,C1080,2025-10-06,71.0,Female,IL,Chicago,Toys,Board Game,4.0,45.73,182.92,Gift Card
+T100877,C1253,2025-04-17,36.0,Female,OH,Cincinnati,Home & Kitchen,Coffee Maker,1.0,154.02,154.02,Credit Card
+T100897,C1142,2025-03-06,33.0,Female,NC,Charlotte,Sports & Outdoors,Yoga Mat,2.0,44.8,89.6,Credit Card
+T100613,C1292,2025-09-22,72.0,Female,GA,Atlanta,Home & Kitchen,Coffee Maker,2.0,142.64,285.28,Debit Card
+T100379,C1208,2025-04-18,46.0,Female,CA,San Francisco,Home & Kitchen,Air Fryer,2.0,69.0,138.0,Cash
+T100076,C1153,2025-07-08,34.0,Male,CA,Sacramento,Books,Self-Help Guide,8.0,8.83,70.64,Credit Card
+T100388,C1005,2025-02-07,66.0,Female,NY,Albany,Sports & Outdoors,Dumbbell Set,1.0,61.27,61.27,Credit Card
+T100406,C1148,2025-01-29,64.0,Female,PA,Erie,Beauty,Hair Dryer,2.0,32.72,65.44,PayPal
+T100291,C1299,2025-05-11,19.0,Female,FL,Tampa,Sports & Outdoors,Camping Tent,2.0,65.72,131.44,Credit Card
+T100715,C1181,2025-09-06,26.0,Female,IL,Naperville,Clothing,Wool Sweater,2.0,19.52,39.04,PayPal
+T100110,C1177,2025-09-15,27.0,Female,PA,Philadelphia,Toys,Puzzle Set,8.0,25.78,206.24,Credit Card
+T100624,C1244,2025-08-27,53.0,Female,TX,Austin,Toys,Building Blocks,7.0,204.54500000000002,1431.82,Debit Card
+T100822,C1201,2025-07-27,69.0,Female,WA,Spokane,Sports & Outdoors,Water Bottle,1.0,39.22,39.22,Credit Card
+T100801,C1246,2025-01-06,61.0,Female,NY,Buffalo,Toys,Board Game,4.0,18.78,75.12,Debit Card
+T100246,C1332,2025-04-13,35.0,Male,IL,Chicago,Home & Kitchen,Air Fryer,3.0,118.72,356.16,Debit Card
+T100145,C1312,2025-09-17,24.0,Female,IL,Naperville,Clothing,Running Shoes,3.0,44.33,132.99,Credit Card
+T100128,C1056,2025-03-20,49.0,Female,GA,Augusta,Home & Kitchen,Air Fryer,4.0,134.55,538.2,Debit Card
+T100886,C1272,2025-07-15,46.0,Male,IL,Chicago,Clothing,Wool Sweater,2.0,72.38,144.76,Cash
+T100622,C1160,2025-04-18,74.0,Male,OH,Columbus,Toys,Remote Control Car,5.0,12.85,64.25,PayPal
+T100984,C1207,2025-08-17,73.0,Female,PA,Pittsburgh,Beauty,Perfume,1.0,15.99,15.99,Debit Card
+T100486,C1177,2025-01-27,46.0,Female,PA,Philadelphia,Sports & Outdoors,Water Bottle,4.0,100.72,402.88,Credit Card
+T100946,C1337,2025-03-26,36.0,Male,CA,Los Angeles,Electronics,Bluetooth Speaker,9.5,101.66,965.77,Credit Card
+T100090,C1138,2025-01-06,37.0,Female,FL,Orlando,Sports & Outdoors,Water Bottle,4.0,93.35,373.4,Gift Card
+T100205,C1203,2025-09-22,46.0,Female,OH,Cleveland,Home & Kitchen,Blender,3.0,72.35,217.05,Credit Card
+T100650,C1322,2025-01-07,46.0,Male,CA,Sacramento,Clothing,T-Shirt Pack,2.0,88.67,177.34,PayPal
+T100957,C1255,2025-03-09,26.0,Male,GA,Augusta,Sports & Outdoors,Dumbbell Set,3.0,101.62,304.86,Cash
+T100056,C1081,2025-07-11,42.0,Male,IL,Chicago,Books,Biography,5.0,10.88,54.4,PayPal
+T100404,C1270,2025-06-06,34.0,Male,TX,Austin,Toys,Action Figure,6.0,28.11,168.66,Credit Card
+T100241,C1132,2025-03-27,23.0,Male,IL,Springfield,Toys,Puzzle Set,7.0,28.64,200.48,PayPal
+T100599,C1237,2025-07-02,42.0,Male,WA,Tacoma,Beauty,Hair Dryer,1.0,29.26,29.26,PayPal
+T100346,C1130,2025-09-10,50.0,Male,FL,Orlando,Beauty,Makeup Kit,4.0,37.92,151.68,Credit Card
+T100097,C1218,2025-06-26,43.0,Female,TX,Dallas,Electronics,USB Drive,4.0,125.56,502.24,Credit Card
+T100116,C1031,2025-08-06,30.0,Male,FL,Miami,Clothing,Winter Jacket,4.0,82.41,329.64,Credit Card
+T100201,C1302,2025-03-25,18.0,Female,WA,Tacoma,Sports & Outdoors,Dumbbell Set,2.0,102.74,205.48,Debit Card
+T100924,C1142,2025-07-06,33.0,Female,NC,Charlotte,Home & Kitchen,Air Fryer,3.0,92.63,277.89,Credit Card
+T100479,C1038,2025-05-16,33.0,Female,IL,Springfield,Home & Kitchen,Cookware Set,4.0,80.72,322.88,Debit Card
+T100323,C1034,2025-03-24,68.0,Female,NY,Albany,Beauty,Makeup Kit,2.0,55.24,110.48,Gift Card
+T100193,C1241,2025-02-18,51.0,Male,PA,Erie,Electronics,Smartwatch,1.0,156.46,156.46,Debit Card
+T100941,C1236,2025-03-24,55.0,Female,TX,Austin,Clothing,Running Shoes,1.0,67.22,67.22,Credit Card
+T100443,C1039,2025-09-23,54.0,Female,FL,Orlando,Home & Kitchen,Cookware Set,2.0,116.14,232.28,Credit Card
+T100725,C1179,2025-06-12,46.0,Female,OH,Cleveland,Sports & Outdoors,Yoga Mat,2.0,28.83,57.66,Debit Card
+T100844,C1165,2025-05-08,64.0,Male,FL,Miami,Books,Self-Help Guide,1.0,21.88,21.88,Debit Card
+T100454,C1125,2025-05-17,50.0,Male,IL,Springfield,Clothing,Running Shoes,1.0,51.64,51.64,Debit Card
+T100528,C1165,2025-01-24,46.0,Male,FL,Miami,Beauty,Perfume,6.0,29.64,177.84,Credit Card
+T100834,C1242,2025-06-02,23.0,Female,IL,Naperville,Home & Kitchen,Blender,4.0,156.4,625.6,Credit Card
+T100550,C1023,2025-03-16,70.0,Male,FL,Miami,Clothing,Winter Jacket,6.0,79.82,478.92,Debit Card
+T100847,C1059,2025-10-19,56.0,Female,NC,Raleigh,Sports & Outdoors,Water Bottle,1.0,96.71,96.71,Gift Card
+T100068,C1279,2025-08-09,22.0,Male,NY,Buffalo,Clothing,Denim Jeans,4.0,55.66,222.64,Credit Card
+T100424,C1181,2025-10-05,26.0,Female,IL,Springfield,Electronics,Phone Charger,3.0,141.6,424.8,PayPal
+T100296,C1042,2025-05-08,57.0,Female,CA,Los Angeles,Books,Biography,3.0,26.69,80.07,Credit Card
+T100737,C1233,2025-10-27,61.0,Female,GA,Atlanta,Books,Biography,4.0,26.15,104.6,Credit Card
+T100931,C1166,2025-04-10,36.0,Female,CA,Los Angeles,Beauty,Hair Dryer,2.0,38.78,77.56,Credit Card
+T100601,C1068,2025-05-22,22.0,Female,OH,Cincinnati,Electronics,USB Drive,5.0,132.45,662.25,PayPal
+T100853,C1327,2025-06-02,20.0,Male,GA,Savannah,Electronics,USB Drive,1.0,160.65,160.65,Credit Card
+T100395,C1132,2025-09-20,46.0,Male,IL,Chicago,Books,Biography,5.0,28.77,143.85,Debit Card
+T100849,C1304,2025-08-27,48.0,Female,NC,Durham,Electronics,Bluetooth Speaker,3.0,150.91,452.73,PayPal
+T100559,C1064,2025-04-23,41.0,Female,TX,Dallas,Electronics,Bluetooth Speaker,4.0,47.52,190.08,Credit Card
+T100525,C1329,2025-10-01,49.0,Female,WA,Seattle,Toys,Remote Control Car,7.0,39.86,279.02,Debit Card
+T100014,C1145,2025-10-23,66.0,Female,CA,Sacramento,Books,Mystery Novel,4.0,16.27,65.08,Credit Card
+T100252,C1170,2025-06-22,24.0,Female,IL,Chicago,Electronics,Bluetooth Speaker,3.0,69.03,207.09,Debit Card
+T100238,C1149,2025-02-14,21.0,Male,PA,Pittsburgh,Home & Kitchen,Air Fryer,1.0,46.3,46.3,PayPal
+T100120,C1014,2025-04-14,58.0,Male,NY,Buffalo,Electronics,Bluetooth Speaker,1.0,121.45,121.45,Gift Card
+T100285,C1044,2025-08-28,21.0,Male,GA,Savannah,Clothing,T-Shirt Pack,2.0,83.15,166.3,Credit Card
+T100554,C1316,2025-07-12,59.0,Female,OH,Cleveland,Sports & Outdoors,Dumbbell Set,5.0,80.01,400.05,Cash
+T100196,C1176,2025-01-04,58.0,Male,GA,Savannah,Home & Kitchen,Air Fryer,4.0,54.71,218.84,Debit Card
+T100345,C1115,2025-08-27,50.0,Female,NY,Albany,Clothing,Wool Sweater,4.0,37.84,151.36,Debit Card
+T100545,C1182,2025-01-11,46.0,Male,PA,Erie,Electronics,Smartwatch,3.0,165.04,495.12,Cash
+T100250,C1015,2025-01-19,62.0,Male,GA,Savannah,Clothing,T-Shirt Pack,5.0,72.8,364.0,Gift Card
+T100972,C1277,2025-09-26,62.0,Male,OH,Cleveland,Clothing,Winter Jacket,2.0,51.57,103.14,Debit Card
+T100645,C1267,2025-03-13,37.0,Female,TX,Austin,Home & Kitchen,Vacuum Cleaner,5.0,75.0,375.0,Debit Card
+T100861,C1168,2025-01-20,37.0,Female,WA,Tacoma,Home & Kitchen,Coffee Maker,2.0,139.72,279.44,PayPal
+T100412,C1214,2025-07-01,60.0,Female,OH,Columbus,Books,Mystery Novel,5.0,7.44,37.2,Credit Card
+T100485,C1329,2025-08-04,49.0,Female,WA,Spokane,Toys,Remote Control Car,7.0,51.64,361.48,Debit Card
+T100430,C1198,2025-09-09,37.0,Female,NC,Durham,Beauty,Shampoo Set,3.0,37.41,112.23,Debit Card
+T100821,C1299,2025-06-06,46.0,Female,FL,Miami,Clothing,Winter Jacket,3.0,40.43,121.29,Credit Card
+T100912,C1283,2025-02-25,45.0,Female,NC,Charlotte,Sports & Outdoors,Bicycle Helmet,2.0,19.9,39.8,Debit Card
+T100290,C1166,2025-08-10,36.0,Female,CA,San Francisco,Books,Biography,8.0,13.62,108.96,Cash
+T100016,C1001,2025-06-21,62.0,Female,NY,Buffalo,Electronics,USB Drive,4.0,204.54500000000002,818.18,Debit Card
+T100158,C1049,2025-03-06,62.0,Female,NY,New York City,Beauty,Hair Dryer,3.0,17.3,51.9,Cash
+T100243,C1078,2025-01-09,50.0,Female,NY,Albany,Clothing,T-Shirt Pack,3.0,83.34,250.02,Debit Card
+T100066,C1224,2025-09-12,59.0,Female,NC,Durham,Books,Cookbook,5.0,22.06,110.3,PayPal
+T100963,C1019,2025-09-06,43.0,Female,NC,Durham,Beauty,Perfume,2.0,27.4,54.8,PayPal
+T100359,C1144,2025-04-29,74.0,Female,WA,Seattle,Clothing,Running Shoes,2.0,39.12,78.24,Credit Card
+T100991,C1240,2025-03-02,46.0,Female,TX,Austin,Books,Biography,5.0,13.79,68.95,Debit Card
+T100631,C1013,2025-03-08,61.0,Female,FL,Tampa,Electronics,Bluetooth Speaker,7.0,176.25,1233.75,Credit Card
+T100504,C1248,2025-04-02,62.0,Female,PA,Pittsburgh,Home & Kitchen,Cookware Set,2.0,155.66,311.32,Cash
+T100472,C1217,2025-08-20,23.0,Male,CA,San Francisco,Sports & Outdoors,Camping Tent,6.0,53.77,322.62,Debit Card
+T100577,C1326,2025-05-06,31.0,Female,NC,Raleigh,Home & Kitchen,Air Fryer,3.0,69.88,209.64,Credit Card
+T100521,C1300,2025-01-22,46.0,Female,CA,Los Angeles,Sports & Outdoors,Bicycle Helmet,5.0,119.41,597.05,Debit Card
+T100911,C1158,2025-04-12,46.0,Male,TX,Dallas,Clothing,T-Shirt Pack,1.0,66.93,66.93,Credit Card
+T100530,C1157,2025-03-23,49.0,Male,CA,Sacramento,Beauty,Makeup Kit,5.0,8.85,44.25,Credit Card
+T100665,C1115,2025-01-02,50.0,Female,NY,New York City,Beauty,Hair Dryer,4.0,32.47,129.88,Debit Card
+T100909,C1018,2025-04-18,65.0,Male,IL,Chicago,Home & Kitchen,Blender,2.0,33.71,67.42,Credit Card
+T100432,C1028,2025-09-08,49.0,Female,OH,Columbus,Books,Self-Help Guide,5.0,25.49,127.45,PayPal
+T100431,C1293,2025-02-01,36.0,Female,NC,Durham,Clothing,Denim Jeans,1.0,16.22,16.22,Debit Card
+T100151,C1109,2025-06-26,58.0,Female,OH,Cincinnati,Toys,Building Blocks,5.0,39.22,196.1,Debit Card
+T100327,C1125,2025-08-18,50.0,Male,IL,Naperville,Books,Cookbook,6.0,31.22,187.32,Debit Card
+T100256,C1296,2025-05-24,66.0,Male,GA,Savannah,Clothing,Winter Jacket,1.0,85.36,85.36,PayPal
+T100311,C1262,2025-09-02,35.0,Male,FL,Miami,Beauty,Perfume,3.0,53.49,160.47,Gift Card
+T100833,C1205,2025-07-30,33.0,Female,PA,Pittsburgh,Electronics,Bluetooth Speaker,1.0,50.76,50.76,Cash
+T100304,C1242,2025-08-01,23.0,Female,IL,Naperville,Beauty,Face Moisturizer,2.0,22.58,45.16,Credit Card
+T100784,C1305,2025-10-07,25.0,Female,CA,San Francisco,Books,Self-Help Guide,3.0,19.64,58.92,Debit Card
+T100413,C1310,2025-04-16,55.0,Female,IL,Chicago,Home & Kitchen,Blender,9.5,83.13,789.73,Gift Card
+T100133,C1289,2025-07-19,44.0,Male,NC,Durham,Beauty,Shampoo Set,1.0,24.92,24.92,Credit Card
+T100031,C1103,2025-03-26,18.0,Male,TX,Dallas,Electronics,Bluetooth Speaker,4.0,176.74,706.96,PayPal
+T100765,C1094,2025-02-19,69.0,Male,CA,San Francisco,Sports & Outdoors,Dumbbell Set,4.0,47.2,188.8,Credit Card
+T100782,C1271,2025-03-24,19.0,Female,NC,Raleigh,Electronics,Wireless Earbuds,1.0,140.0,140.0,Debit Card
+T100458,C1036,2025-09-30,66.0,Female,IL,Naperville,Toys,Remote Control Car,7.0,34.88,244.16,Credit Card
+T100161,C1058,2025-06-12,60.0,Male,IL,Chicago,Home & Kitchen,Air Fryer,4.0,89.9,359.6,Debit Card
+T100339,C1096,2025-09-18,31.0,Female,PA,Pittsburgh,Sports & Outdoors,Water Bottle,1.0,127.15,127.15,Credit Card
+T100286,C1082,2025-07-14,27.0,Female,PA,Philadelphia,Electronics,Bluetooth Speaker,1.0,204.54500000000002,204.54,Debit Card
+T100248,C1050,2025-08-24,61.0,Female,OH,Columbus,Books,Cookbook,7.0,18.96,132.72,Debit Card
+T100978,C1269,2025-03-29,51.0,Male,OH,Cleveland,Beauty,Hair Dryer,2.0,21.3,42.6,Credit Card
+T100579,C1318,2025-09-29,71.0,Male,GA,Savannah,Home & Kitchen,Cookware Set,2.0,92.15,184.3,Credit Card
+T100870,C1157,2025-08-05,49.0,Male,CA,San Francisco,Clothing,Winter Jacket,3.0,45.27,135.81,Debit Card
+T100975,C1139,2025-04-13,42.0,Female,FL,Miami,Sports & Outdoors,Yoga Mat,3.0,30.18,90.54,Cash
+T100001,C1117,2025-02-23,25.0,Female,FL,Orlando,Home & Kitchen,Cookware Set,5.0,147.27,736.35,Gift Card
+T100736,C1045,2025-08-12,73.0,Male,FL,Miami,Electronics,USB Drive,3.0,204.54500000000002,613.64,Credit Card
+T100207,C1224,2025-04-05,59.0,Female,NC,Durham,Books,Self-Help Guide,8.0,11.34,90.72,Credit Card
+T100629,C1084,2025-02-25,53.0,Female,FL,Tampa,Books,Biography,8.0,30.92,247.36,Cash
+T100971,C1087,2025-07-30,35.0,Female,PA,Philadelphia,Sports & Outdoors,Yoga Mat,1.0,114.17,114.17,Debit Card
+T100885,C1162,2025-07-23,41.0,Male,OH,Columbus,Electronics,USB Drive,7.0,29.61,207.27,PayPal
+T100895,C1167,2025-03-20,27.0,Male,WA,Tacoma,Clothing,Denim Jeans,5.0,94.6,473.0,Cash
+T100264,C1053,2025-05-02,44.0,Male,WA,Spokane,Home & Kitchen,Air Fryer,3.0,56.63,169.89,Credit Card
+T100274,C1218,2025-09-07,43.0,Female,TX,Houston,Toys,Building Blocks,7.0,8.94,62.58,Credit Card
+T100070,C1261,2025-05-27,27.0,Male,GA,Atlanta,Sports & Outdoors,Camping Tent,4.0,98.0,392.0,Credit Card
+T100640,C1189,2025-10-11,35.0,Male,PA,Pittsburgh,Toys,Puzzle Set,5.0,42.2,211.0,PayPal
+T100444,C1113,2025-07-03,44.0,Female,GA,Savannah,Electronics,Phone Charger,3.0,195.43,586.29,Debit Card
+T100990,C1235,2025-06-11,59.0,Male,NY,New York City,Sports & Outdoors,Yoga Mat,3.0,51.26,153.78,Credit Card
+T100098,C1048,2025-02-01,56.0,Male,FL,Orlando,Clothing,Winter Jacket,2.0,76.54,153.08,Credit Card
+T100902,C1036,2025-05-30,66.0,Female,IL,Springfield,Sports & Outdoors,Yoga Mat,3.0,33.23,99.69,PayPal
+T100021,C1027,2025-03-11,64.0,Male,OH,Cleveland,Books,Mystery Novel,7.0,21.19,148.33,Credit Card
+T100705,C1299,2025-03-04,19.0,Female,FL,Tampa,Home & Kitchen,Cookware Set,4.0,49.95,199.8,Debit Card
+T100414,C1310,2025-05-04,55.0,Female,IL,Naperville,Home & Kitchen,Coffee Maker,3.0,124.42,373.26,Credit Card
+T100517,C1243,2025-05-25,55.0,Male,NC,Charlotte,Books,Mystery Novel,6.0,12.63,75.78,PayPal
+T100149,C1316,2025-05-06,59.0,Female,OH,Cincinnati,Toys,Remote Control Car,3.0,33.26,99.78,Cash
+T100825,C1060,2025-03-19,70.0,Female,PA,Philadelphia,Sports & Outdoors,Dumbbell Set,1.0,12.0,12.0,PayPal
+T100647,C1168,2025-02-14,37.0,Female,WA,Spokane,Sports & Outdoors,Water Bottle,1.0,120.81,120.81,PayPal
+T100354,C1313,2025-10-07,34.0,Female,NC,Charlotte,Toys,Remote Control Car,5.0,48.8,244.0,Credit Card
+T100857,C1278,2025-05-07,46.0,Female,WA,Tacoma,Books,Cookbook,4.0,12.8,51.2,PayPal
+T100989,C1302,2025-08-25,18.0,Female,WA,Spokane,Beauty,Perfume,2.0,44.78,89.56,Debit Card
+T100052,C1119,2025-10-18,24.0,Female,WA,Spokane,Home & Kitchen,Cookware Set,1.0,73.0,73.0,Credit Card
+T100839,C1335,2025-02-03,64.0,Male,IL,Chicago,Electronics,Phone Charger,4.0,72.68,290.72,PayPal
+T100198,C1222,2025-09-20,58.0,Male,PA,Erie,Books,Children's Book,3.0,21.95,65.85,Credit Card
+T100122,C1118,2025-09-05,31.0,Male,GA,Atlanta,Home & Kitchen,Vacuum Cleaner,1.0,25.54,25.54,Credit Card
+T100203,C1078,2025-07-05,50.0,Female,NY,Albany,Books,Children's Book,6.0,6.13,36.78,Debit Card
+T100067,C1042,2025-08-03,57.0,Female,CA,San Francisco,Home & Kitchen,Blender,3.0,111.45,334.35,Credit Card
+T100223,C1332,2025-10-14,35.0,Male,IL,Springfield,Electronics,Smartwatch,6.0,204.54500000000002,1227.27,PayPal
+T100127,C1127,2025-05-30,61.0,Male,GA,Atlanta,Clothing,Winter Jacket,3.0,60.26,180.78,Gift Card
+T100655,C1268,2025-04-27,52.0,Male,CA,San Francisco,Sports & Outdoors,Dumbbell Set,2.0,62.35,124.7,Credit Card
+T100838,C1229,2025-06-12,28.0,Female,PA,Erie,Books,Self-Help Guide,3.0,11.03,33.09,Debit Card
+T100943,C1155,2025-06-27,55.0,Male,FL,Tampa,Beauty,Perfume,5.0,55.45,277.25,PayPal
+T100139,C1335,2025-07-09,46.0,Male,IL,Chicago,Beauty,Perfume,3.0,35.7,107.1,Cash
+T100417,C1049,2025-03-16,62.0,Female,NY,Buffalo,Beauty,Shampoo Set,4.0,32.48,129.92,Gift Card
+T100218,C1059,2025-09-08,56.0,Female,NC,Durham,Sports & Outdoors,Bicycle Helmet,3.0,30.74,92.22,Gift Card
+T100546,C1172,2025-09-01,61.0,Male,CA,Sacramento,Beauty,Shampoo Set,3.0,13.73,41.19,Credit Card
+T100842,C1068,2025-07-14,22.0,Female,OH,Cincinnati,Sports & Outdoors,Water Bottle,2.0,46.17,92.34,Credit Card
+T100157,C1094,2025-10-09,69.0,Male,CA,Los Angeles,Toys,Board Game,4.0,33.02,132.08,Gift Card
+T100255,C1149,2025-06-12,21.0,Male,PA,Erie,Home & Kitchen,Coffee Maker,3.0,74.51,223.53,Credit Card
+T100643,C1217,2025-07-25,23.0,Male,CA,Sacramento,Electronics,Bluetooth Speaker,1.0,186.14,186.14,Gift Card
+T100738,C1103,2025-08-25,18.0,Male,TX,Austin,Sports & Outdoors,Yoga Mat,3.0,135.01,405.03,Debit Card
+T100039,C1090,2025-09-13,42.0,Female,OH,Cleveland,Electronics,Smartwatch,2.0,204.54500000000002,409.09,Credit Card
+T100130,C1041,2025-04-05,61.0,Male,OH,Cleveland,Beauty,Perfume,1.0,16.91,16.91,Debit Card
+T100254,C1263,2025-02-04,46.0,Male,NC,Raleigh,Electronics,Phone Charger,3.0,185.31,555.93,Credit Card
+T100189,C1084,2025-03-24,53.0,Female,FL,Miami,Home & Kitchen,Blender,2.0,76.18,152.36,Debit Card
+T100998,C1021,2025-02-13,39.0,Female,NC,Durham,Beauty,Hair Dryer,4.0,12.0,48.0,PayPal
+T100589,C1254,2025-08-22,55.0,Male,GA,Atlanta,Sports & Outdoors,Dumbbell Set,1.0,81.78,81.78,Gift Card
+T100402,C1091,2025-02-08,63.0,Male,TX,Houston,Clothing,Running Shoes,4.0,18.39,73.56,Credit Card
+T100760,C1041,2025-08-22,46.0,Male,OH,Cleveland,Home & Kitchen,Coffee Maker,7.0,110.03,770.21,Credit Card
+T100038,C1060,2025-02-20,70.0,Female,PA,Philadelphia,Sports & Outdoors,Yoga Mat,5.0,57.23,286.15,Gift Card
+T100884,C1157,2025-03-31,49.0,Male,CA,Sacramento,Toys,Puzzle Set,2.0,43.78,87.56,Debit Card
+T100353,C1005,2025-06-15,66.0,Female,NY,Albany,Electronics,Wireless Earbuds,1.0,108.97,108.97,Cash
+T100620,C1337,2025-01-12,36.0,Male,CA,Sacramento,Electronics,Bluetooth Speaker,1.0,130.68,130.68,Cash
+T100534,C1128,2025-10-19,50.0,Male,OH,Columbus,Clothing,Denim Jeans,2.0,33.11,66.22,Credit Card
+T100503,C1320,2025-06-22,36.0,Male,WA,Seattle,Sports & Outdoors,Water Bottle,2.0,112.66,225.32,Debit Card
+T100159,C1306,2025-07-06,35.0,Female,OH,Cincinnati,Sports & Outdoors,Dumbbell Set,2.0,93.82,187.64,PayPal
+T100394,C1330,2025-01-28,49.0,Male,NY,New York City,Home & Kitchen,Cookware Set,3.0,84.51,253.53,Credit Card
+T100882,C1050,2025-10-26,61.0,Female,OH,Cincinnati,Home & Kitchen,Coffee Maker,2.0,98.86,197.72,Credit Card
+T100537,C1282,2025-07-30,56.0,Male,OH,Cincinnati,Clothing,Wool Sweater,6.0,74.77,448.62,PayPal
+T100695,C1128,2025-03-24,50.0,Male,OH,Cleveland,Books,Mystery Novel,4.0,19.97,79.88,PayPal
+T100240,C1067,2025-01-28,39.0,Male,PA,Philadelphia,Books,Mystery Novel,2.0,17.73,35.46,PayPal
+T100657,C1318,2025-07-10,71.0,Male,GA,Atlanta,Books,Cookbook,4.0,16.22,64.88,Cash
+T100475,C1275,2025-08-07,45.0,Male,WA,Spokane,Home & Kitchen,Blender,3.0,120.72,362.16,Credit Card
+T100951,C1134,2025-06-18,63.0,Male,FL,Tampa,Clothing,T-Shirt Pack,4.0,39.11,156.44,Debit Card
+T100920,C1150,2025-07-13,66.0,Male,OH,Cincinnati,Home & Kitchen,Blender,1.0,68.82,68.82,Credit Card
+T100314,C1324,2025-10-25,73.0,Male,CA,Sacramento,Books,Self-Help Guide,3.0,9.31,27.93,Gift Card
+T100361,C1092,2025-02-04,65.0,Female,CA,Sacramento,Sports & Outdoors,Water Bottle,2.0,49.55,99.1,Credit Card
+T100320,C1203,2025-08-03,57.0,Female,OH,Cincinnati,Sports & Outdoors,Dumbbell Set,3.0,129.66,388.98,Credit Card
+T100960,C1307,2025-03-02,49.0,Male,NY,New York City,Electronics,Smartwatch,2.0,140.08,280.16,Credit Card
+T100744,C1193,2025-09-11,38.0,Female,NC,Charlotte,Clothing,Denim Jeans,3.0,89.24,267.72,Debit Card
+T100672,C1104,2025-01-18,63.0,Male,NC,Charlotte,Clothing,Wool Sweater,2.0,17.04,34.08,Gift Card
+T100564,C1326,2025-10-13,31.0,Female,NC,Charlotte,Home & Kitchen,Cookware Set,4.0,72.34,289.36,Credit Card
+T100355,C1079,2025-05-22,56.0,Female,IL,Naperville,Beauty,Face Moisturizer,3.0,56.03,168.09,PayPal
+T100034,C1318,2025-04-19,71.0,Male,GA,Atlanta,Books,Children's Book,5.0,25.83,129.15,Credit Card
+T100688,C1166,2025-03-23,36.0,Female,CA,San Francisco,Clothing,Running Shoes,3.0,37.29,111.87,PayPal
+T100376,C1059,2025-09-25,56.0,Female,NC,Raleigh,Home & Kitchen,Cookware Set,3.0,159.84,479.52,Debit Card
+T100184,C1202,2025-03-28,46.0,Female,PA,Pittsburgh,Toys,Board Game,5.0,39.92,199.6,PayPal
+T100823,C1117,2025-05-09,25.0,Female,FL,Orlando,Toys,Puzzle Set,3.0,13.58,40.74,PayPal
+T100423,C1094,2025-03-28,69.0,Female,CA,San Francisco,Beauty,Face Moisturizer,4.0,44.12,176.48,Cash
+T100325,C1112,2025-07-16,49.0,Female,GA,Atlanta,Home & Kitchen,Cookware Set,1.0,101.77,101.77,Credit Card
+T100187,C1146,2025-08-16,19.0,Female,NY,Albany,Home & Kitchen,Air Fryer,4.0,151.54,606.16,Credit Card
+T100284,C1160,2025-09-12,74.0,Female,OH,Cincinnati,Clothing,Wool Sweater,2.0,21.45,42.9,Credit Card
+T100391,C1113,2025-07-02,46.0,Female,GA,Atlanta,Electronics,Wireless Earbuds,4.0,112.98,451.92,Credit Card
+T100899,C1107,2025-03-10,55.0,Female,OH,Columbus,Beauty,Face Moisturizer,3.0,50.92,152.76,Cash
+T100165,C1138,2025-05-04,46.0,Female,FL,Tampa,Toys,Remote Control Car,3.0,39.37,118.11,Credit Card
+T100347,C1170,2025-05-07,46.0,Female,IL,Springfield,Home & Kitchen,Blender,4.0,131.1,524.4,Debit Card
+T100298,C1078,2025-04-30,50.0,Female,NY,Buffalo,Home & Kitchen,Air Fryer,3.0,140.4,421.2,Debit Card
+T100535,C1298,2025-03-08,34.0,Female,IL,Springfield,Books,Cookbook,7.0,30.37,212.59,Credit Card
+T100229,C1191,2025-05-16,53.0,Female,GA,Augusta,Beauty,Shampoo Set,2.0,27.39,54.78,PayPal
+T100859,C1305,2025-09-20,25.0,Female,CA,Sacramento,Books,Cookbook,4.0,26.58,106.32,Credit Card
+T100827,C1143,2025-03-12,41.0,Female,WA,Tacoma,Books,Cookbook,9.5,12.48,118.56,Credit Card
+T100694,C1272,2025-08-14,26.0,Male,IL,Springfield,Sports & Outdoors,Camping Tent,4.0,76.87,307.48,Debit Card
+T100855,C1189,2025-03-06,35.0,Female,PA,Pittsburgh,Toys,Building Blocks,4.0,51.62,206.48,Gift Card
+T100041,C1068,2025-08-16,22.0,Female,OH,Cleveland,Clothing,T-Shirt Pack,2.0,44.43,88.86,Credit Card
+T100868,C1219,2025-05-11,69.0,Male,NY,Albany,Books,Biography,4.0,18.94,75.76,Debit Card
+T100748,C1005,2025-07-24,66.0,Female,NY,New York City,Books,Cookbook,2.0,24.16,48.32,PayPal
+T100977,C1321,2025-02-23,24.0,Male,CA,Sacramento,Clothing,Running Shoes,4.0,41.58,166.32,Debit Card
+T100862,C1216,2025-09-25,22.0,Male,NY,New York City,Toys,Building Blocks,8.0,33.75,270.0,Credit Card
+T100587,C1287,2025-10-06,50.0,Female,TX,Austin,Electronics,Wireless Earbuds,3.0,204.54500000000002,613.64,Debit Card
+T100543,C1212,2025-10-07,62.0,Male,PA,Philadelphia,Home & Kitchen,Vacuum Cleaner,3.0,204.54500000000002,613.64,Credit Card
+T100446,C1224,2025-10-25,59.0,Female,NC,Raleigh,Home & Kitchen,Air Fryer,1.0,104.23,104.23,Credit Card
+T100447,C1125,2025-02-03,50.0,Male,IL,Springfield,Home & Kitchen,Coffee Maker,3.0,47.32,141.96,PayPal
+T100349,C1263,2025-06-26,70.0,Male,NC,Charlotte,Toys,Puzzle Set,5.0,24.13,120.65,Credit Card
+T100045,C1217,2025-09-07,46.0,Male,CA,Sacramento,Electronics,Wireless Earbuds,3.0,66.39,199.17,Cash
+T100987,C1062,2025-02-05,46.0,Male,PA,Pittsburgh,Toys,Puzzle Set,6.0,49.2,295.2,Credit Card
+T100108,C1243,2025-07-18,55.0,Male,NC,Charlotte,Toys,Action Figure,5.0,33.87,169.35,Credit Card
+T100617,C1086,2025-01-01,23.0,Male,TX,Austin,Home & Kitchen,Coffee Maker,2.0,142.67,285.34,Debit Card
+T100661,C1113,2025-05-03,44.0,Female,GA,Augusta,Books,Cookbook,3.0,19.28,57.84,Gift Card
+T100029,C1153,2025-06-26,34.0,Male,CA,Sacramento,Home & Kitchen,Coffee Maker,3.0,152.65,457.95,Cash
+T100181,C1073,2025-06-11,25.0,Male,FL,Tampa,Sports & Outdoors,Bicycle Helmet,3.0,131.67,395.01,Gift Card
+T100621,C1043,2025-04-19,38.0,Male,GA,Savannah,Home & Kitchen,Blender,1.0,119.19,119.19,PayPal
+T100419,C1147,2025-07-05,31.0,Male,FL,Miami,Home & Kitchen,Air Fryer,4.0,156.02,624.08,PayPal
+T100634,C1072,2025-03-31,44.0,Female,NC,Raleigh,Clothing,Winter Jacket,3.0,82.22,246.66,PayPal
+T100104,C1176,2025-04-12,58.0,Male,GA,Atlanta,Beauty,Makeup Kit,3.0,12.09,36.27,Credit Card
+T100060,C1045,2025-06-06,73.0,Male,FL,Orlando,Beauty,Face Moisturizer,2.0,64.63,129.26,Credit Card
+T100658,C1280,2025-08-12,33.0,Female,GA,Atlanta,Electronics,Bluetooth Speaker,2.0,85.12,170.24,Debit Card
+T100083,C1214,2025-06-06,60.0,Female,OH,Columbus,Home & Kitchen,Blender,4.0,109.5,438.0,Gift Card
+T100490,C1168,2025-10-03,37.0,Female,WA,Tacoma,Books,Children's Book,6.0,25.84,155.04,PayPal
+T100315,C1247,2025-09-15,41.0,Male,FL,Orlando,Home & Kitchen,Vacuum Cleaner,2.0,29.57,59.14,Credit Card
+T100450,C1326,2025-08-04,46.0,Female,NC,Charlotte,Electronics,Smartwatch,5.0,51.98,259.9,Credit Card
+T100381,C1007,2025-03-07,57.0,Male,TX,Houston,Sports & Outdoors,Bicycle Helmet,4.0,117.97,471.88,Credit Card
+T100422,C1036,2025-05-04,66.0,Female,IL,Springfield,Books,Children's Book,8.0,25.56,204.48,PayPal
+T100496,C1266,2025-02-04,43.0,Female,PA,Philadelphia,Electronics,Bluetooth Speaker,2.0,102.02,204.04,Credit Card
+T100994,C1270,2025-03-18,34.0,Male,TX,Houston,Electronics,Wireless Earbuds,4.0,115.93,463.72,Cash
+T100739,C1160,2025-09-06,74.0,Male,OH,Cleveland,Sports & Outdoors,Yoga Mat,5.0,42.94,214.7,Debit Card
+T100523,C1133,2025-04-21,49.0,Female,PA,Philadelphia,Clothing,Denim Jeans,1.0,19.85,19.85,Debit Card
+T100445,C1051,2025-07-06,29.0,Female,TX,Houston,Toys,Action Figure,5.0,18.32,91.6,Debit Card
+T100663,C1129,2025-03-23,54.0,Male,NC,Durham,Home & Kitchen,Vacuum Cleaner,2.0,125.97,251.94,Debit Card
+T100000,C1028,2025-05-31,49.0,Female,OH,Cleveland,Electronics,Bluetooth Speaker,3.0,113.39,340.17,Credit Card
+T100779,C1207,2025-07-29,73.0,Female,PA,Philadelphia,Home & Kitchen,Vacuum Cleaner,1.0,62.98,62.98,PayPal
+T100626,C1024,2025-07-28,62.0,Female,GA,Atlanta,Sports & Outdoors,Dumbbell Set,3.0,44.12,132.36,Gift Card
+T100457,C1183,2025-07-20,57.0,Male,GA,Augusta,Clothing,T-Shirt Pack,1.0,44.3,44.3,Debit Card
+T100488,C1062,2025-05-01,46.0,Male,PA,Erie,Beauty,Shampoo Set,4.0,22.24,88.96,Debit Card
+T100088,C1154,2025-08-14,46.0,Female,NY,Albany,Beauty,Perfume,1.0,36.25,36.25,Debit Card
+T100483,C1025,2025-01-09,54.0,Female,CA,Sacramento,Electronics,Wireless Earbuds,2.0,114.96,229.92,PayPal
+T100460,C1053,2025-10-12,44.0,Male,WA,Tacoma,Sports & Outdoors,Bicycle Helmet,2.0,137.31,274.62,Gift Card
+T100077,C1338,2025-01-18,29.0,Female,CA,San Francisco,Electronics,Bluetooth Speaker,1.0,63.06,63.06,PayPal
+T100268,C1092,2025-08-04,65.0,Female,CA,Los Angeles,Sports & Outdoors,Yoga Mat,4.0,92.59,370.36,Debit Card
+T100929,C1107,2025-10-24,55.0,Female,OH,Columbus,Home & Kitchen,Blender,6.0,30.59,183.54,Credit Card
+T100123,C1092,2025-03-29,65.0,Female,CA,Sacramento,Clothing,Running Shoes,2.0,42.12,84.24,Cash
+T100297,C1033,2025-01-12,46.0,Female,PA,Erie,Clothing,Denim Jeans,3.0,204.54500000000002,613.64,Debit Card
+T100881,C1102,2025-03-22,63.0,Female,TX,Houston,Beauty,Perfume,1.0,9.89,9.89,Debit Card
+T100095,C1314,2025-05-11,31.0,Female,WA,Seattle,Sports & Outdoors,Bicycle Helmet,1.0,99.37,99.37,Credit Card
+T100733,C1165,2025-01-11,64.0,Male,FL,Orlando,Books,Cookbook,7.0,17.1,119.7,Debit Card
+T100011,C1270,2025-05-05,34.0,Male,TX,Houston,Electronics,Smartwatch,3.0,28.23,84.69,PayPal
+T100114,C1001,2025-09-08,62.0,Female,NY,Albany,Sports & Outdoors,Dumbbell Set,3.0,14.79,44.37,Credit Card
+T100843,C1328,2025-01-06,26.0,Female,GA,Savannah,Electronics,Smartwatch,2.0,166.43,332.86,PayPal
+T100428,C1336,2025-02-17,72.0,Female,FL,Miami,Books,Mystery Novel,4.0,17.57,70.28,PayPal
+T100257,C1133,2025-01-12,49.0,Female,PA,Philadelphia,Home & Kitchen,Air Fryer,3.0,38.0,114.0,PayPal
+T100731,C1330,2025-05-19,49.0,Male,NY,Buffalo,Toys,Board Game,5.0,13.05,65.25,Debit Card
+T100949,C1054,2025-04-21,46.0,Female,IL,Springfield,Toys,Board Game,4.0,53.63,214.52,Credit Card
+T100764,C1036,2025-02-19,66.0,Female,IL,Springfield,Sports & Outdoors,Dumbbell Set,5.0,135.17,675.85,Cash
+T100352,C1281,2025-03-19,45.0,Male,IL,Chicago,Home & Kitchen,Air Fryer,2.0,112.23,224.46,Credit Card
+T100773,C1227,2025-08-19,51.0,Female,IL,Springfield,Home & Kitchen,Coffee Maker,2.0,121.37,242.74,Debit Card
+T100955,C1203,2025-08-08,57.0,Female,OH,Cleveland,Sports & Outdoors,Dumbbell Set,1.0,90.6,90.6,Gift Card
+T100690,C1263,2025-07-02,70.0,Male,NC,Durham,Home & Kitchen,Cookware Set,3.0,128.76,386.28,Credit Card
+T100922,C1215,2025-05-23,33.0,Male,FL,Tampa,Electronics,Phone Charger,2.0,31.91,63.82,Credit Card
+T100790,C1067,2025-05-06,39.0,Male,PA,Erie,Clothing,Winter Jacket,5.0,85.74,428.7,Debit Card
+T100531,C1088,2025-06-24,61.0,Female,PA,Philadelphia,Toys,Board Game,6.0,50.1,300.6,Cash
+T100867,C1159,2025-09-12,62.0,Female,NY,Buffalo,Books,Mystery Novel,4.0,25.87,103.48,Debit Card
+T100169,C1098,2025-08-28,54.0,Female,GA,Augusta,Books,Biography,8.0,23.28,186.24,Debit Card
+T100239,C1237,2025-07-10,42.0,Male,WA,Seattle,Books,Cookbook,2.0,23.99,47.98,Cash
+T100160,C1128,2025-06-02,50.0,Male,OH,Columbus,Beauty,Shampoo Set,2.0,32.91,65.82,Cash
+T100073,C1281,2025-03-11,45.0,Male,IL,Chicago,Beauty,Face Moisturizer,5.0,52.59,262.95,Debit Card
+T100529,C1247,2025-10-22,41.0,Male,FL,Orlando,Sports & Outdoors,Yoga Mat,1.0,36.33,36.33,Debit Card
+T100062,C1269,2025-06-12,51.0,Male,OH,Cincinnati,Toys,Building Blocks,4.0,22.6,90.4,Cash
+T100761,C1261,2025-05-17,27.0,Male,GA,Savannah,Sports & Outdoors,Camping Tent,2.0,93.48,186.96,Credit Card
+T100492,C1069,2025-03-29,46.0,Female,CA,Los Angeles,Books,Cookbook,7.0,18.03,126.21,Credit Card
+T100740,C1146,2025-07-31,19.0,Female,NY,Albany,Electronics,USB Drive,2.0,190.79,381.58,Cash
+T100750,C1010,2025-06-12,46.0,Male,IL,Chicago,Sports & Outdoors,Camping Tent,4.0,116.52,466.08,Credit Card
+T100741,C1296,2025-10-04,66.0,Male,GA,Atlanta,Books,Biography,4.0,22.16,88.64,Cash
+T100830,C1289,2025-02-26,44.0,Male,NC,Raleigh,Clothing,Denim Jeans,3.0,25.75,77.25,Gift Card
+T100795,C1276,2025-06-07,44.0,Male,TX,Dallas,Sports & Outdoors,Water Bottle,2.0,43.97,87.94,Debit Card
+T100047,C1221,2025-08-29,43.0,Female,GA,Atlanta,Clothing,Running Shoes,2.0,19.42,38.84,Cash
+T100762,C1157,2025-05-02,49.0,Male,CA,Los Angeles,Sports & Outdoors,Yoga Mat,3.0,67.84,203.52,Credit Card
+T100591,C1243,2025-07-04,55.0,Male,NC,Durham,Home & Kitchen,Blender,2.0,32.2,64.4,Gift Card
+T100807,C1076,2025-09-29,36.0,Male,NC,Charlotte,Home & Kitchen,Blender,2.0,121.52,243.04,PayPal
+T100505,C1102,2025-01-26,63.0,Female,TX,Houston,Beauty,Shampoo Set,3.0,23.62,70.86,Credit Card
+T100652,C1009,2025-08-30,23.0,Male,FL,Orlando,Electronics,Wireless Earbuds,2.0,39.26,78.52,Gift Card
+T100192,C1329,2025-06-20,49.0,Female,WA,Seattle,Toys,Puzzle Set,5.0,41.11,205.55,Credit Card
+T100244,C1145,2025-06-08,66.0,Female,CA,San Francisco,Home & Kitchen,Coffee Maker,7.0,154.27,1079.89,Gift Card
+T100059,C1195,2025-09-23,22.0,Female,CA,San Francisco,Electronics,Bluetooth Speaker,4.0,204.54500000000002,818.18,Debit Card
+T100176,C1046,2025-01-01,43.0,Female,PA,Pittsburgh,Toys,Action Figure,5.0,22.04,110.2,Debit Card
+T100449,C1326,2025-02-12,31.0,Female,NC,Charlotte,Sports & Outdoors,Water Bottle,2.0,78.27,156.54,Debit Card
+T100055,C1153,2025-02-14,34.0,Male,CA,San Francisco,Home & Kitchen,Coffee Maker,3.0,143.03,429.09,Debit Card
+T100919,C1274,2025-01-15,41.0,Female,PA,Philadelphia,Beauty,Perfume,2.0,22.81,45.62,Debit Card
+T100641,C1300,2025-02-26,38.0,Female,CA,Sacramento,Clothing,Wool Sweater,4.0,48.55,194.2,Credit Card
