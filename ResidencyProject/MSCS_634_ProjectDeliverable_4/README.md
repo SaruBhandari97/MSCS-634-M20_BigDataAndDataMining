@@ -81,12 +81,6 @@ individual customers. Concrete steps taken in this project — using
 synthetic data, excluding leakage-prone features, and reporting honest
 (modest) metrics — are also detailed there.
 
-## Video Presentation
-
-The presentation (`MSCS634_Deliverable4_Presentation.pptx`) has 12 slides
-covering the full project journey in a 5-7 minute format, with speaker
-notes embedded on every slide. A standalone copy of the narration is also
-provided in `PRESENTATION_SCRIPT.md`.
 
 ## How to Run the Notebook
 
